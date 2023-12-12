@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF12_223306_GESTION_SOSTENIBLE_PROCESOS_PRODUCTIVOS_BIENES_SERVICIOS_V2/#/](https://ecored-sena.github.io/CF12_223306_GESTION_SOSTENIBLE_PROCESOS_PRODUCTIVOS_BIENES_SERVICIOS_V2/#/)
 
 #
 
