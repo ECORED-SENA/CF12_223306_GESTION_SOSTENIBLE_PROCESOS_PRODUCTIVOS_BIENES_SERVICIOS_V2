@@ -292,6 +292,252 @@
     p.mt-4(data-aos="fade-right") Se considera una estrategia empresarial en la dirección de retornos, una vez terminada la vida útil del bien o cuando hay artículos defectuosos se gestiona su regreso seguro a la empresa donde se fabricó. Al llevarse a cabo el retorno de los artículos se realiza una valoración de calidad para la toma de decisiones sobre su nuevo destino, que puede ser darle una nueva función o aplicar un procedimiento de eliminación con las medidas idóneas para proteger al ambiente.
     p.mt-4(data-aos="fade-left") De acuerdo con lo anterior las variables que dan lugar a las estrategias aplicables por la logística inversa se presentan en el siguiente recurso.
 
+    SlyderF.mt-5(columnas="col-xl-4 col-lg-6")
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/14.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Análisis de costo
+            p La reutilización de materiales reciclados y la reventa de productos a mercados menos exigente permite la reducción significativa de costos.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/15.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Canibalización
+            p Se denomina de esta manera a las operaciones de gestión de productos fuera de uso y ubicados en el final de su vida útil, en la que se recupera una parte mínima de los componentes para luego ser usados en el proceso de fabricación.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/16.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Devoluciones
+            p Retornar el producto desde el cliente final hasta el centro de origen. Esto puede ser causado por insatisfacción del cliente, entrega errónea, producto defectuoso, entre otros motivos.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/17.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Gestión de residuos
+            p Consiste en la recolección, reciclaje y tratamiento de los desechos generados por el producto final después de ser comercializado.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/18.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Incineración
+            p Consiste en un proceso de combustión controlada a altas temperaturas que transforma la fracción orgánica de los residuos en materiales inertes (cenizas y gases).
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/19.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Reciclaje
+            p En este proceso se busca la recuperación residual de un producto para reutilizarlo como materia prima en la elaboración de uno nuevo, el cual puede alcanzar los niveles de calidad de un producto original mediante el uso de tecnologías cada vez más avanzadas.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/20.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Redes de transporte
+            p Implica en establecer un diseño de redes que funcione de manera sostenible para la recolección, tratamiento, desechos y traslado hacia las empresas.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/21.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Reducir
+            p La producción de los objetos que sean susceptibles de convertirse en residuos.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/22.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Refabricación / Remanufactura
+            p Someter componentes que tienen un alto o medio grado de descomposición, los cuales deben ser remanufacturados para ser utilizados posteriormente en la remanufactura de un producto original, consiguiendo un costo de fabricación cercanos a un 50% de un  nuevo componente.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/23.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Reparación
+            p Nace por la necesidad de sustituir o reemplazar una pieza o componente por haber culminado su vida útil.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/24.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Restauración
+            p Consiste en devolver el valor al producto usado mediante la utilización de nuevas tecnologías que permitan ampliar su vida útil.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/25.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Reutilización o reventa
+            p Consiste en recuperar el producto para darle un nuevo uso, debido a que mantiene su forma y posee un nulo o escaso deterioro.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/26.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Transporte
+            p Transporte de producto o mercancías a su punto de origen o al almacén de donde salieron.
+      .tarjeta-avatar
+        img(src='@/assets/curso/tema2/27.svg')
+        .tarjeta.color-primario(style="background-color:#F8F6FF;")
+          .p-4.text-center.mt-4
+            h5.mb-3 Vertedero controlado
+            p Disposición que pone punto final al ciclo de vida útil de un producto. Se utiliza cuando el producto no puede ser acondicionado o utilizado de alguna otra manera.
+    
+    .p-4.p-lg-5.mt-5(style="background-color:#FFF9ED;")
+      .col-xl-10.m-auto
+        h5(data-aos="zoom-in") Aplicación de estrategias de logística a la inversa
+        p.mt-4(data-aos="fade-right") A continuación se presenta un ejemplo de los resultados obtenidos en la implementación de estrategias de logística a la inversa clasificadas de acuerdo con el sector y beneficios o ventajas que aporta.
+        p.mt-4(data-aos="fade-left") Presenta resultados a favor de las empresas que implementan estas estrategias, así como el fortalecimiento de las relaciones con stakeholders al vincularse en este tipo de procesos, la indiscutible reducción de costos e incremento de rentabilidad, y la cultura del cuidado al medioambiente desde el ámbito organizacional, lo cual parecía ser imposible y alejado de los objetivos empresariales (González, 2020). 
+        a.anexo.mt-4.col-lg-7(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" data-aos="fade-right" style="background-color:#FAEBCD;")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p.fw-normal(style="color:#583CB6;") #[strong(style="color:#583CB6;") Anexo.] Aplicación de estrategias de logística a la inversa
+    
+    h5.mt-5.mb-4.p-2.ps-3.pe-4(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Definición, características
+
+    .row
+      .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+        p La logística integral aparece desde 1980, consistiendo en concentrar la totalidad de la responsabilidad del suministro y el costo global en un único fin; ya para el Siglo XXI se concentra la atención en conocer los recursos requeridos para producir un producto hasta su consumo final, lo que enfoca a todos los vinculados en la cadena en trabajar en relaciones gana – gana. Luego, enfoca el esfuerzo en la oportunidad de entrega de los productos, la cual no depende de la velocidad al asumir un reto, sino en la capacidad de trabajar de manera mancomunada a través de diferentes miembros de la cadena productiva, lo que permite ubicar la competencia dentro de la misma y no como una fuerza individual.
+        p.mt-4 En la época actual las organizaciones deben centrar sus esfuerzos en reducir tanto el precio de venta como el costo del producto para mantenerse avante en medio de los cambios del modelo económico. Este reto será posible solo si se esfuerza en diseñar y dar desarrollo a productos con características más económicas en sí mismo o en reducir de manera significativa lo costos de la logística de provisión de materia prima e insumos, producción o elaboración y la distribución; de no ser así es imposible alcanzar la reducción en costos propuesta.
+      .col-lg-4(data-aos="fade-left" style="place-self:center;")
+        figure.m-auto.col-5.col-md-6.col-lg-12
+          img(src="@/assets/curso/tema2/28.svg")
+    
+    .col-xl-10.m-auto.mt-5
+      .p-4(style="background-color:#FAEBCD;" data-aos="flip-up")
+        p.mb-0 Es en este panorama donde la logística directa o tradicional no puede competir con la logística inversa donde se aplican métodos que antes no se consideraban, donde cobra real importancia los beneficios de una estrategia colaborativa en la cadena productiva, donde deben estar vinculados todos los actores, productor, proveedor, cliente, terceros y competencia consolidando esta estrategia como un factor determinante de competitividad (Oltra, 2015).
+    
+    p.mt-5(data-aos="fade-right") La gestión de la logística inversa, conocida internacionalmente como Reserve Supply Chain Management (RSCM), cubre todo un amplio abanico del flujo de productos y complementos, que se inicia después de la entrega del suministro primario y que conocido tradicionalmente por el nombre de devoluciones, ampara la optimización de este flujo inverso de productos y embalajes analizando todas las posibilidades: reutilización, reparación, restauración, remanufactura parcial, reciclado de materias primas o eliminación definitiva, decidiendo en cada caso que se tiene cómo se usa o aplica y en qué momento.
+
+    .col-xl-10.m-auto.mt-5
+      .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="flip-up")
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require('@/assets/curso/tema2/29.png')})`}"
+        )
+        .bloque-texto-g__texto.p-4
+          p.mb-0 Sus características surgen a través de proveedores dispersos, contrario a la economía de escala, dificultando la posible reducción de costos. Implementa la estrategia de colaboración entre miembros de la cadena, buscando reducir costos mediante la contratación de nuevos prestadores de servicios, con la competencia y con terceros, lo cual hace de la colaboración un factor determinante de la sinergia, aunado a la eliminación de residuos como uno de los objetivos de la logística inversa.
+    
+    p.mt-5(data-aos="fade-right") Existen modelos de empresas que implementan esta estrategia empresarial como la organización SIGRE o Sistema integrado de gestión de residuos y envases, la cual posee una planta especializada sostenida económicamente por los laboratorios que la integran, quienes pueden contar en sus envases de medicamentos con su logo, lo que implica que pacientes o usuarios deben desechar productos o medicamentos vencidos, en mal estado o que no utilizan en contenedores ubicados en las farmacias, con el fin de proceder a su eliminación controlada. De esta manera, el manejo posterior consiste en clasificar los medicamentos y enviarlos a gestores autorizados de residuos que realizan su disposición final. A continuación, se presenta el esquema de logística inversa de SIGRE.
+
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
+      h5 Figura 11.
+      span Esquema SIGRE
+    .p-4.mt-4(style="background-color:#F6F6F6;")
+      .col-xl-10.m-auto
+        figure.d-none.d-lg-block(data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema2/30.svg")
+        figure.d-lg-none(data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema2/31.svg")
+    
+    p.mt-5(data-aos="fade-right") Este esquema se ha puesto en marcha a fin de garantizar el control y seguridad en todas las etapas del proceso y ejercer vigilancia por las autoridades ambientales y sanitarias para otorgar permisos al acceder o corroborar la información o realizar las correspondientes inspecciones, además de los mecanismos utilizados por la entidad mediante auditorías, instrucciones técnicas específicas, protocolos de seguridad y trazabilidad del producto; lo anterior fundamentado en la aplicación de las normas técnicas pertinentes en lo referente a sistemas de gestión de calidad, sistemas de gestión ambiental y lo relacionado a seguridad y salud en el trabajo, comprometiendo así a los productores a responsabilizarse de su recogida, separación, clasificación de materiales y su posterior destrucción, valoración energética, reciclado del metal, aluminio, plásticos, cartón y vidrio.
+    p.mt-4(data-aos="fade-left") Tal es el caso aplicado de la logística de SIGRE, para continuar con el ejemplo, en el que se pudo corroborar la disminución de costos posteriores a la recolección y disposición de desechos de medicamentos, transfiriendo esta responsabilidad a los agentes comerciales que se encargan de colocar el producto en el mercado; pero sin abandonar la responsabilidad empresarial de generar todos los canales requeridos para garantizar que esta labor se realice de manera óptima. A continuación, se presentan los resultados obtenidos en cifras por SIGRE en el periodo de 2003 a 2008.
+
+    .col-xl-8.m-auto.mt-5
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+        h5 Figura 12.
+        span Resultado del sistema de SIGRE en cifras
+      .p-4.mt-4(style="background-color:#fff;box-shadow:0px 3px 8px rgba(0,0,0,.12);")
+        .col-xl-10.m-auto
+          figure(data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema2/32.svg")
+      figcaption.mt-3.fw-normal(style="background-color:#E8E8E8;") Nota. Tomado de Cabeza (2012).
+    
+    .col-xl-10.m-auto.mt-5
+      .p-4(style="background-color:#FAEBCD;" data-aos="flip-up")
+        p.mb-0 La logística inversa saca provecho del valor de los productos fuera de uso, asignándoles una nueva función o utilizándolos en la fabricación de nuevos productos. Hace posible la reducción de costos en la producción y empaquetado, disminuye el uso de materia prima virgen, mejora la relación entre distribuidor-cliente, establece una buena imagen de la empresa y minimiza la huella ambiental, lo cual contribuye a la llamada economía circular (González, 2020).
+    
+    h5.mt-5.mb-4.p-2.ps-3.pe-4(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Exceso de inventarios, devoluciones, servicio posventa, garantías y productos obsoletos e inventarios estacionales
+    p(data-aos="fade-left") Algunas actividades que pueden enmarcarse en la logística inversa son los procesos de retorno de excesos de inventario, devoluciones de clientes, productos obsoletos, inventarios sobrantes de demandas estacionales, entre otros y actividades de retirada, clasificación, reacondicionamiento y reenvío al punto de venta o a otros mercados secundarios. 
+
+    .col-xl-10.m-auto.mt-5
+      .p-4(style="background-color:#FAEBCD;" data-aos="flip-up")
+        p.mb-0 Mediante la logística inversa cuando un producto se ha devuelto a la empresa, ya se trate de una devolución dentro del período de garantía o de un producto al final de su vida útil, la empresa dispone de diversas formas de gestionarlo con miras a recuperar parte de su valor generando un flujo inverso, que puede darse en cada uno de los pasos (Oltra, 2015).
+    
+    p.mt-5(data-aos="fade-right") En cuanto al servicio posventa y la logística inversa representan una parte de la cadena de suministro haciéndose responsables de la fidelización y confianza de los clientes, así como de la eficiencia y optimización de los costos de tratamiento por el producto devuelto. Tiene gran importancia porque a través de este se realiza la asistencia, el mantenimiento, reparación o reposición de productos que presentan fallas o no cumplen con la promesa de valor al cliente, buscando su satisfacción, una compra recurrente y una imagen confiable.
+
+    .col-xl-10.m-auto.mt-5
+      .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="flip-up")
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require('@/assets/curso/tema2/33.png')})`}"
+        )
+        .bloque-texto-g__texto.p-4
+          p.mb-0 Las devoluciones en la actualidad surgen de manera frecuente en el ecommerce. El hecho de no poder ver, tocar y sentir el producto de manera directa propone un reto para el comercio electrónico, entre los cuales se encuentra la posibilidad de que el cliente devuelva el producto en el caso que no cumpla con las especificaciones ofertadas o no cumpla sus expectativas, lo que implica incurrir en costos de transporte por devolución por lo que la empresa debe definir una política de devolución conforme a los mínimos establecidos por la ley.
+    
+    p.mt-5(data-aos="fade-right") El término de logística inversa o reversa no solo hace referencia al papel de la logística en el retorno del producto, sino que también se refiere a la reducción en origen, el reciclado, la reutilización de materiales, la sustitución de materiales, la eliminación de residuos y desperdicios, la reparación y a la remanufacturación de los mismos. Su introducción ha sido el resultado del aumento de conciencia medioambiental en los países industrializados, que lleva a plantearse los problemas de la recogida de residuos, de productos o componentes usados y su reciclaje. El siguiente gráfico complementa lo anteriormente expuesto.
+
+    .p-4.mt-5(style="background-color:#F0BD51;" data-aos="zoom-in-down")
+      p.mb-0 La logística reversa o inversa gestiona el retorno de los productos al final de la cadena de abastecimiento en forma efectiva y económica. Su fin es la recuperación y reciclaje de envases, embalajes, desechos y residuos peligrosos; así como los procesos de retorno de excesos de inventario, devoluciones de clientes, productos obsoletos e inventarios estacionales. Se adelanta a la finalización del ciclo de la vida útil del producto, con objeto de mercados de mayor rotación.
+    .row
+      .col-lg.pe-lg-0(data-aos="fade-right")
+        .h-100.p-4.pb-0(style="background-color:#FAEBCD;")
+          figure
+            img(src="@/assets/curso/tema2/34.svg")
+      .col-lg.ps-lg-0(data-aos="fade-left")
+        .h-100(style="background-color:#FEF4E2;")
+          figure
+            img(src="@/assets/curso/tema2/35.svg")
+    .p-4(style="background-color:#EF8B53;" data-aos="zoom-in-up")
+      p.mb-0 La logística reversa o inversa de las empresas ha tenido una connotación cada vez más relevante al interior, debido a los valores ocultos que se manejan y que afectan en forma constante los resultados comparativos de la organización. Se debe reconocer que la gestión logística de los flujos inversos puede ser un factor de ventaja competitiva, dado que al minimizar este proceso permite obtener mejores resultados en toda la cadena de abastecimiento, confirmando de esta manera que la logística es la disciplina del manejo del movimiento de mercancías, conocimientos, información y dinero circulante.
+
+    Separador
+
+    .titulo-segundo(data-aos="zoom-in-right")
+      h2#t_2_2 2.2 Canales de distribución del producto y/o servicio
+    
+    p(data-aos="fade-right") Definido como la plataforma o escenario en el que se desarrollan una serie de actividades necesarias para poner el producto o servicio al alcance del cliente, con el fin de facilitar su compra. Los canales de distribución proveen los medios que hacen que productos y servicios sean trasladados desde su punto de concepción o producción hasta el lugar de consumo, de esta manera facilita la compra al consumidor final.
+    p.mt-4(data-aos="fade-left") Desde esta óptica, se cumplen dos funciones, las de logística para trasladar el producto o servicio al punto de comercialización y las de operaciones que comprende todas las actividades o transacciones comerciales realizadas hasta el cierre, basados en el valor agregado que el producto o servicio brinda al cliente, favoreciendo así el intercambio o compra.
+    p.mt-4(data-aos="fade-right") Este valor agregado es inherente al canal de distribución y se refiere al cumplimiento de tareas específicas, necesarias e ineludibles que se deben llevar a cabo para garantizar el éxito del sistema de distribución, optimizando recursos y dando lugar a ventajas competitivas complejas. 
+
+    .col-xl-10.m-auto.mt-5
+      .bloque-texto-g.bloque-texto-g--inverso.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="flip-up")
+        .bloque-texto-g__img(
+          :style="{'background-image': `url(${require('@/assets/curso/tema2/36.png')})`}"
+        )
+        .bloque-texto-g__texto.p-4
+          p.mb-0 Las devoluciones en la actualidad surgen de manera frecuente en el ecommerce. El hecho de no poder ver, tocar y sentir el producto de manera directa propone un reto para el comercio electrónico, entre los cuales se encuentra la posibilidad de que el cliente devuelva el producto en el caso que no cumpla con las especificaciones ofertadas o no cumpla sus expectativas, lo que implica incurrir en costos de transporte por devolución por lo que la empresa debe definir una política de devolución conforme a los mínimos establecidos por la ley.
+
+    p.mt-5(data-aos="fade-right") La distribución de firmas independientes tiende a desaparecer gracias a que ahora se recurre a la estrategia de unir esfuerzos y asociarse para optimizar los servicios a prestar al cliente, haciéndolos más eficientes y de menor costo dando lugar a nuevas formas de integración y asociación, lo que restará fuerza decisiva a los canales de distribución, pero sí, por el contrario, continúa un ambiente de inestabilidad y competencia en la distribución, la figura más importante en el escenario.
+    p.mt-4(data-aos="fade-left") En los canales de distribución hay cinco términos vinculados que permiten conocer las etapas o puntos focales que se pueden presentar en su trayecto, lo que implica generar acuerdos estratégicos que faciliten la toma de decisiones en favor de los beneficios para cada parte interesada, estos son:
+
+    .row.mt-5
+      .col-lg.mb-4.mb-lg-0(data-aos="fade-right")
+        .h-100.p-4.d-flex.align-content-center.align-items-center.flex-wrap(style="background-color:#F7E9E1;")
+          figure.m-auto.col-md-6.col-5.col-lg-12
+            img(src="@/assets/curso/tema2/37.svg")
+      .col-lg(data-aos="fade-left")
+        AcordionA.acordion1(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+          .row.col-xl-11.m-auto(titulo="Interorganizacional")
+            p Se refiere a la participación de firmas externas a la empresa, al igual que distintos sectores internos ,si se asume el desafío de administrar las áreas internas de la organización y firmas consolidadas con objetivos ajenos a los propios.
+          .row.col-xl-11.m-auto(titulo="Sistema")
+            p Se refiere a los nudos que se presentan entre las partes como conductas, alianzas, conflictos donde comprender el todo no es posible.
+          .row.col-xl-11.m-auto(titulo="Contactual")
+            p Implica el contacto que se da entre los diferentes actores como facilitadores e intermediarios a medida que el producto se traslada por el canal hasta llegar al consumidor final a través de negociaciones, acciones para motivar la demanda, compra, venta, transferencia de propiedad de bienes y servicios.
+          .row.col-xl-11.m-auto(titulo="Logística")
+            p Encargada de trasladar los productos por el canal definido en los lugares y manera adecuada, además del compromiso de la gestión del marketing en cuanto a las decisiones estratégicas y la estructura más apropiada del canal, lo que implica que diferentes actores tendrán la oportunidad de tomar decisiones por lo que se hace necesario establecer relaciones asociadas entre las partes como estrategia de trascendencia para el canal de distribución.
+          .row.col-xl-11.m-auto(titulo="Objetivos de distribución")
+            p Se enfoca en lograr los objetivos planteados en la distribución y en el marketing en cuanto a finanzas, volumen de ventas, retornos, participación en el mercado, imagen, servicio al cliente, crecimiento y posicionamiento.
+
+    .col-xl-10.m-auto.mt-5
+      .p-4(style="background-color:#FAEBCD;" data-aos="flip-up")
+        p.mb-0 Es importante tener en cuenta que el funcionamiento exitoso del canal de distribución de la gestión estratégica comercial se define a partir de la estrategia competitiva, de comunicación, el mercado meta, la determinación de costos de las diferentes alternativas, la puesta en marcha y monitoreo del sistema, la investigación permanente y los objetivos generales del plan de marketing y de la empresa.
+    
+    p.mt-5(data-aos="fade-right") De igual manera, existe la gestión logística o distribución física de los productos en el momento, lugar y forma necesaria apegada a las decisiones estratégicas del plan de marketing; sin embargo, y a pesar de estar apegada al mix de mercadeo, esta es el componente menos controlable, los cuales en el desempeño de su función se ven influenciados por variables macroambientales como económicas, socioculturales, políticas, legales, tecnológicas, físicas y climáticas. De la misma manera, está permeado por variables microambientales como proveedores, intermediarios, clientes y competencia.
+    p.mt-4(data-aos="fade-left") Todas estas variables deben ser observadas con precaución para estar preparados ante los cambios que puedan surgir y el impacto que generen inciden en el desempeño futuro del canal de distribución. Algunas de las tendencias del entorno se explican a continuación para una mayor comprensión.
+
+    .row.mt-5
+      .col-lg.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+        .p-4.mb-4(style="background-color:#F0EBFF;border-radius:20px;box-shadow:0px 0px 8px 2px rgba(0,0,0,.12);")
+          p.mb-0 #[strong Cambios en la relación de poder de los mercados:] por efecto de la globalización las grandes empresas productoras deben asumir fusiones y realizar adquisiciones que van delimitando su poder mediante una estructura bien establecida.
+        .p-4.mb-4(style="background-color:#F0EBFF;border-radius:20px;box-shadow:0px 0px 8px 2px rgba(0,0,0,.12);")
+          p.mb-0 #[strong Cambios en los minoristas:] aparece fundamentalmente por el crecimiento acelerado de grandes superficies y otro tipo de establecimientos especializados que se consolidan por sus nuevos formatos, nuevas estrategias de atracción y de captar  la atención del cliente.
+        .p-4.mb-4(style="background-color:#F0EBFF;border-radius:20px;box-shadow:0px 0px 8px 2px rgba(0,0,0,.12);")
+          p.mb-0 #[strong Cambios en los mayoristas:] desaparición de muchos mayoristas que no tuvieron una reacción apropiada ante la pérdida de clientes minoristas, así como la pérdida de clientes tradicionales  como fábricas que ante los cambios en el mercado debieron asumir de manera directa la comercialización a pesar del proceso de transformación de sus estructuras para adaptarse al nuevo rol de prestadores de servicios (Paz, 2008).
+      .col-lg(data-aos="fade-left" style="place-self:center;")
+        figure.m-auto.col-md-6.col-5.col-lg-12
+          img(src="@/assets/curso/tema2/38.svg")
+    
+    p.mt-4(data-aos="fade-right") En definitiva, la programación de la producción y la logística sostenible inversa requieren de grandes esfuerzos organizacionales y estratégicos que influyen en el entorno y de manera favorable en el interior de la empresa, lo que implica realizar procesos claros y estructurados de programación de la misma, considerando aspectos internos y externos que aporten a su calidad y oportunidad, que sumado a la logística inversa permitirá controlar de manera específica la cadena de suministro, dando resultados favorables en cuanto a rentabilidad, medioambiente, imagen, consolidación y crecimiento organizacional.
+
+
+
+
+
 
 
 
@@ -354,4 +600,6 @@ export default {
   border: 4px #A5F6CC solid
 .imageninfografica1.img-infografica.color-primario .img-infografica__item__numero, .img-infografica-b.color-primario .img-infografica__item__numero
   color: #fff
+.acordion1 .acordion__activo
+  background-color: #E8E8E8
 </style>

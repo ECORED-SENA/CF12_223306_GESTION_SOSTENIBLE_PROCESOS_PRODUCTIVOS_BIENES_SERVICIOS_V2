@@ -257,6 +257,9 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
+    h5.mt-5.mb-4.p-2.ps-3.pe-4(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Sistemas ERP y MRP
+    p(data-aos="fade-left") El siguiente recurso desarrolla en qué consiste cada uno de estos modelos.
+    
     AcordionA.mt-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
       .row.col-xl-11.m-auto(titulo="Sistema ERP")
         .col-lg-2.mb-4.mb-lg-0
@@ -273,16 +276,16 @@
           p Modelo denominado planeación de requisitos de materiales (MRP). Es un sistema que se aplica para deducir los materiales y componentes necesarios para fabricar un producto; ayuda a garantizar que el inventario correcto esté disponible para el proceso de producción exactamente cuando se necesita y al menor costo posible; mejora la eficiencia, la flexibilidad y la rentabilidad de las operaciones de fabricación; puede hacer que los trabajadores de la fábrica sean más productivos, mejoren la calidad del producto y se minimice los costos de materiales y mano de obra. Todo lo anterior contribuye al crecimiento y la estabilidad de los ingresos. Dentro de sus acciones están:
           ul.lista-ul.mt-3.ps-lg-4
             li.d-flex
-              i.fas.fa-angle-right
+              i.fas.fa-check(style="color:#583CB6;")
               | Realizar un inventario de los recursos o materiales disponibles.
             li.d-flex
-              i.fas.fa-angle-right
+              i.fas.fa-check(style="color:#583CB6;")
               | Revisar cuáles se van adicionar de acuerdo con la necesidad.
             li.d-flex
-              i.fas.fa-angle-right
+              i.fas.fa-check(style="color:#583CB6;")
               | Programar la producción.
             li.d-flex
-              i.fas.fa-angle-right
+              i.fas.fa-check(style="color:#583CB6;")
               | Ejercer un seguimiento de la producción.
           p.mt-3 La base fundamental del MRP es que permita dar respuesta a interrogantes tan sencillos como: qué se necesita, en qué cantidades, cuánto  y cuándo es necesario; información que se requiere para la fabricación de la producción. 
     
@@ -377,199 +380,18 @@
         .bloque-texto-g__texto.p-4
           p.mb-0 Es importante que los fabricantes elijan el mejor método de producción desde el principio. Los fabricantes deben planificar y diseñar cuidadosamente el proceso de producción y considerar los recursos y la maquinaria necesarios para alcanzar los objetivos de la empresa. Cualquier error al principio de la operación puede hacer retroceder a las empresas y requerir un capital sustancial para corregirlo.
     
-    p.mt-5(data-aos="fade-right") En la mayoría de los sistemas de producción la capacidad se ajusta contratando o despidiendo trabajadores, programando horas extras o recortando las horas de trabajo, agregando o apagando máquinas o departamentos completos o áreas de la instalación, o cambiando la tasa de producción dentro de límites razonables. La eficacia de cualquiera de estos mecanismos de ajuste depende en gran medida de las limitaciones tecnológicas del proceso mismo, la economía de la industria y la naturaleza de la competencia. 
+    p.mt-5(data-aos="fade-right") En la mayoría de los sistemas de producción la capacidad se ajusta contratando o despidiendo trabajadores, programando horas extras o recortando las horas de trabajo, agregando o apagando máquinas o departamentos completos o áreas de la instalación, o cambiando la tasa de producción dentro de límites razonables. La eficacia de cualquiera de estos mecanismos de ajuste depende en gran medida de las limitaciones tecnológicas del proceso mismo, la economía de la industria y la naturaleza de la competencia.
     p.mt-4(data-aos="fade-left") En algunas industrias el ajuste de la capacidad es una tarea muy difícil. Las líneas de montaje con equipo especializado, por ejemplo, son más eficientes cuando funcionan a una velocidad y no se pueden reducir, ni detener de forma intermitente sin graves pérdidas económicas. En tales casos, la atención cuidadosa al diseño fundamental del sistema de producción es un factor crítico en el éxito general del negocio.
-    p.mt-4(data-aos="fade-right") Cuando se trata de elegir un método de producción los fabricantes tienen varias opciones. En el siguiente recurso se  desarrolla la estructura de cada uno de estos.
+    p.mt-4(data-aos="fade-right") Cuando se trata de elegir un método de producción, los fabricantes tienen tres tipos de sistemas que pueden escoger de acuerdo con la necesidad: sistema de producción continua, sistema de producción por lotes y sistema de producción por encargo.
 
-    .tarjeta.tarjeta--azul.p-4.p-lg-5.pb-lg-4.mt-4(style="background-color:#FAF5EA;" data-aos="zoom-in")
-      SlyderA(tipo="b")
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Sistemas de producción
-            p Cuando se trata de elegir un método de producción, los fabricantes tienen tres tipos de sistemas que pueden escoger de acuerdo  con la necesidad:
-            ul.lista-ul.mt-3.ps-lg-4
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Sistema de producción continua.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Sistema de producción por lotes.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Sistema de producción por encargo.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/35.svg')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Sistema de producción continua
-            p Según lo inferido por Velasco (2015) determina que este tipo de fabricación no se somete a problemas complejos, puesto que la línea de producción es fija. Es un método que produce eficientemente grandes cantidades en un corto período de tiempo. 
-            p.mt-3 Es un sistema organizado que involucra maquinaria avanzada y produce grandes cantidades, asumiendo así tareas específicas, maquinaria especializada que entrega como resultado productos idénticos y la potencial optimización automatizada. Durante el procesamiento continuo, distintas partes fluyen de una máquina a la siguiente para hacer un producto terminado. No hay interrupciones entre las etapas de producción.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/36.svg')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Ejemplos de Sistema de producción continua
-            figure.mt-4
-              img(src="@/assets/curso/tema1/45.svg")
-            p.mt-3 Para afianzar el desarrollo de los ejemplos anteriores, se ha tomado uno en particular, la industria del papel. Abarca varias máquinas para llevar a cabo los procesos de fabricación. Las máquinas vuelven los troncos en astillas, que luego se cocinan en el digestor que tiene la capacidad de recibir grandes volúmenes. Se convierten las astillas en pulpa, que será procesada por rodillos que se encuentran en máquinas automáticas para posteriormente ser secadas.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/37.svg')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Beneficios de la implementación de la producción continua:
-            ul.lista-ul.mt-3.ps-lg-4
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Utiliza maquinaria avanzada para producir bienes estandarizados.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Productos de la misma calidad.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Menos tiempo de inactividad.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Menos errores humanos.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Producir gran cantidad en menos tiempo.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Se mantiene al día con respecto a la previsión de la demanda.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Evita la exposición de trabajadores a situaciones de riesgo o peligro.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Disminución de los costos generales.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Convierte materias primas en bienes con eficiencia.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Ofrece precios asequibles al consumidor.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/38.svg')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Sistema de producción por lotes
-            p Dentro de sus atributos se encuentran las series de producción de diferentes tamaños, permitiendo que los productos se fabriquen por lotes con modificaciones importantes en el producto. Dicho en otras palabras, este método de fabricación se utiliza para producir artículos similares que requieren de ciertos ajustes durante el proceso de producción. El sistema radica en que cada lote pasa por una sola fase del proceso antes de pasar a la siguiente fase de fabricación, siendo el atractivo clave y principal que mueve a las empresas a utilizar esta solución de la diversidad de tamaños en la industria.
-            p.mt-3 Pueden ocurrir cambios entre diferentes lotes, como productos construidos en diferentes colores, tamaños y estilos. Si es necesario modificar un producto, esta variación se puede cambiar a medida que el proceso de producción cambia de un estilo de lote a otro. Es decir que, los artículos individuales no pasan a la siguiente fase de valor agregado hasta que todos los productos del lote hayan pasado por la anterior, creando un lote de productos terminados a la vez.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/39.svg')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Ejemplos de Sistema de producción por lotes
-            figure.mt-4
-              img(src="@/assets/curso/tema1/46.svg")
-            p.mt-3 Para afianzar más el desarrollo de los ejemplos anteriores se ha tomado uno en particular: la panadería. Esta actividad económica produce lotes a razón de diferentes productos de consumo con la misma maquinaria.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/40.svg')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Beneficios de la implementación de la producción por lotes:
-            ul.lista-ul.mt-3.ps-lg-4
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Produce diferentes bienes utilizando la misma maquinaria.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Cambios y personalidad en los lotes.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Brinda respuestas a las variaciones de la demanda.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Diversidad de colores, tamaños y personalidad.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Concentrar grandes masas de clientes.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Calidad del producto entre las fases.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Detecta productos defectuosos.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | El proceso es más eficiente.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Requiere menos inversión de capital.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/41.svg')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Sistema de producción por encargo
-            p Conocida también como producción personalizada. Se centra en fabricar cantidades pequeñas para satisfacer las necesidades que para el método son específicas. Es así como el cliente tiene protagonismo en este método, puesto que las empresas utilizan los datos y aportes que el cliente suministra para fabricar productos por encargo o de manera personalizada. Aunque es un poco lenta comparada con los anteriores sistemas, las líneas de montaje siguen un orden específico de pautas. 
-            p.mt-3 La producción por encargo se caracteriza por su agilidad y capacidad para diseñar y fabricar productos únicos destinados a adaptarse a funciones o requisitos específicos. A diferencia de los productos producidos en masa, los productos hechos a medida se fabrican en cantidades más pequeñas sobre la base de un pedido. 
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/42.png')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Ejemplos de Sistema de producción por encargo
-            p Algunos ejemplos de actividades económicas que implementan este sistema de producción son:
-            ul.lista-ul.mt-3.ps-lg-4
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Instalación de aplicaciones.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Fabricación de moldes.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Placas de circuito impreso.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Polímeros y plásticos.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Componentes ópticos.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/43.svg')
-        .row
-          .col-lg-6.mb-4.mb-lg-0
-            h5 Beneficios de la implementación de la producción por encargo
-            ul.lista-ul.mt-3.ps-lg-4
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Produce cantidades más bajas.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Los precios de estos productos son más costosos.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Frecuencia de los procesos de calidad.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Uso de talleres pequeños.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | La mano de obra adquiere gran participación.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Productos fabricados a la medida.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Conjunto de servicios de valor agregado.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Estrecha relación con el cliente.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Satisfacción de necesidad a partir del diseño del cliente.
-          .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src='@/assets/curso/tema1/44.png')
+    
+
+
+
+
+
+
+
     
     p.mt-5(data-aos="fade-right") Recuerde siempre que la atención al diseño del sistema de producción es un factor crítico y fundamental en la selección del sistema de producción y por ende, en el éxito general del negocio.
 
