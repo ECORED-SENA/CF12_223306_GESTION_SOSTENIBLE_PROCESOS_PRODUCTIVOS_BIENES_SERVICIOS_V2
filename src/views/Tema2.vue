@@ -291,7 +291,10 @@
     p.mt-5(data-aos="fade-right") Ya puesto sobre la mesa el concepto del consumo y la compra sostenible es importante anotar que es una labor de las empresas tener los mecanismos que aseguren una correcta evaluación y detección de riesgos económicos, sociales y ambientales en su cadena de valor. Por esta razón, la Norma técnica ISO 20400 de Compras sostenibles es un instrumento que promueve el cumplimiento de los estándares de responsabilidad social contenidos en la NTISO 26000, a fin de que fueran utilizados e integrados a la función de compras.
     p.mt-4(data-aos="fade-left") La norma internacional sobre responsabilidad social llamada ISO 26000 establece siete puntos fundamentales que las empresas y organizaciones deben tener en cuenta al definir sus estrategias de RS. Estos se presentan en el siguiente gráfico.
 
-    .p-3.p-lg-4.pb-xl-5.pt-xl-5.mt-5(style="background-color:#DEE4F0;")
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
+      h5 Figura 8.
+      span Aspectos para definir las estrategias
+    .p-3.p-lg-4.pb-xl-5.pt-xl-5.mt-4(style="background-color:#DEE4F0;")
       .col-xl-9.m-auto
         figure(data-aos="zoom-in-up")
           img(src="@/assets/curso/tema2/11.svg")
@@ -309,28 +312,37 @@
 
     p(data-aos="fade-right") Desde el Gobierno Nacional se ha establecido el Plan nacional de negocios verdes con el objetivo de definir lineamientos y proporcionar herramientas para la planeación y toma de decisiones que permitan el desarrollo, fomento, promoción de la oferta y demanda de los negocios verdes y sostenibles en el país, convirtiéndolos en estratégicos para impulsar el crecimiento sostenible en la ciudad y promover buenas prácticas de producción y consumo que no afecten la vida medioambiental. 
     p.mt-4(data-aos="fade-left") Para que un emprendimiento o actividad económica sea calificada como negocio verde debe desarrollar acciones enfocadas al cuidado del medioambiente, incluir el componente sostenibilidad en los bienes y servicios que brinda y su actividad debe estar incluida de esta manera en el Plan nacional de negocios verdes; además debe implementar mejores prácticas en su cadena productiva que cumplan con la conservación de los ecosistemas, demostrando que sus procesos resultan menos contaminantes y generando mayores beneficios ambientales a largo plazo en su cadena productiva, en comparación con otros similares.
-    p.mt-4(data-aos="fade-right") Los negocios verdes además incorporan buenas prácticas ambientales, sociales y económicas con la misión clara de conservar siempre el medioambiente como el único capital natural que soporta el desarrollo de un territorio. Algunas de las ventajas de la gestión a través de los negocios  verdes son:
+    p.mt-4(data-aos="fade-right") Los negocios verdes además incorporan buenas prácticas ambientales, sociales y económicas con la misión clara de conservar siempre el medioambiente como el único capital natural que soporta el desarrollo de un territorio. #[strong Algunas de las ventajas de la gestión a través de los negocios verdes son:]
 
-    .col-xl-10.m-auto.mt-5
-      .p-4.pt-lg-5(style="background-color:#F6F6F6;")
-        ImagenInfografica.color-acento-botones.imageninfografica1(data-aos="zoom-in-up")
-          template(v-slot:imagen)
-            figure
-              img(src='@/assets/curso/tema2/13.svg')
-          .tarjeta.color-acento-botones.p-3(x="27%" y="24%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-            p.mb-0(style="color:inherit;") Participar en escenarios de promoción para la venta y adquisición de bienes y servicios que promueven los negocios verdes.
-          .tarjeta.color-acento-botones.p-3(x="28.5%" y="70%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-            p.mb-0(style="color:inherit;") Contar con el respaldo de la autoridad ambiental.
-          .tarjeta.color-acento-botones.p-3(x="37.5%" y="17%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-            p.mb-0(style="color:inherit;") Ser parte del Ecodirectorio de Bogotá, que se distribuye de manera virtual a las empresas que buscan proveedores con exigencias ambientales.
-          .tarjeta.color-acento-botones.p-3(x="68%" y="65%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-            p.mb-0(style="color:inherit;") Recibir invitaciones a programas de actualización, formación y sensibilización.
-          .tarjeta.color-acento-botones.p-3(x="74%" y="2%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-            p.mb-0(style="color:inherit;") Recibir asesoría y acompañamiento para hacer alianzas estratégicas y comerciales.
-          .tarjeta.color-acento-botones.p-3(x="99%" y="60%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-            p.mb-0(style="color:inherit;") Visibilización del negocio a nivel nacional, gracias al apoyo del Ministerio de Ambiente y Desarrollo Sostenible.
-      .p-4(style="background-color:#FAEBCD;" data-aos="zoom-in-up")
-        p.mb-0 El plan de negocios verdes busca potenciar las ventajas comparativas ambientales en las regiones y permite que el ambiente sea un factor activo en la competitividad del país. A su vez, el programa brinda los parámetros para orientar, articular y contribuir a la implementación, consolidación y fortalecimiento de la oferta y demanda de productos y servicios verdes a nivel regional, nacional e internacional (Sostenible, 2014).
+    .row.mt-5
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+        .p-4(style="background-color:#F8F6FF;border-radius:8px;")
+            ul.lista-ul.mt-3.ps-lg-3
+              li.d-flex
+                i.fas.fa-check(style="color:#583CB6;")
+                | Participar en escenarios de promoción para la venta y adquisición de bienes y servicios que promueven los negocios verdes.
+              li.d-flex
+                i.fas.fa-check(style="color:#583CB6;")
+                | Ser parte del Ecodirectorio de Bogotá, que se distribuye de manera virtual a las empresas que buscan proveedores con exigencias ambientales.
+              li.d-flex
+                i.fas.fa-check(style="color:#583CB6;")
+                | Contar con el respaldo de la autoridad ambiental.
+              li.d-flex
+                i.fas.fa-check(style="color:#583CB6;")
+                | Recibir invitaciones a programas de actualización, formación y sensibilización.
+              li.d-flex
+                i.fas.fa-check(style="color:#583CB6;")
+                | Recibir asesoría y acompañamiento para hacer alianzas estratégicas y comerciales.
+              li.d-flex
+                i.fas.fa-check(style="color:#583CB6;")
+                | Visibilización del negocio a nivel nacional, gracias al apoyo del Ministerio de Ambiente y Desarrollo Sostenible.
+              
+      .col-lg-5(data-aos="fade-left" style="place-self:center;")
+        figure.m-auto.col-6.col-md-6.col-lg-12
+          img(src="@/assets/curso/tema2/53.svg")
+
+    .p-4.mt-4(style="background-color:#FAEBCD;" data-aos="zoom-in-up")
+      p.mb-0 El plan de negocios verdes busca potenciar las ventajas comparativas ambientales en las regiones y permite que el ambiente sea un factor activo en la competitividad del país. A su vez, el programa brinda los parámetros para orientar, articular y contribuir a la implementación, consolidación y fortalecimiento de la oferta y demanda de productos y servicios verdes a nivel regional, nacional e internacional (Sostenible, 2014).
 
     h5.mt-5.mb-4.p-2.ps-3.pe-4(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Estrategias de la logística inversa
 
