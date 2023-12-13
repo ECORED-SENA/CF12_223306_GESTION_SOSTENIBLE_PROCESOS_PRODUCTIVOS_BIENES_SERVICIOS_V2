@@ -384,7 +384,125 @@
     p.mt-4(data-aos="fade-left") En algunas industrias el ajuste de la capacidad es una tarea muy difícil. Las líneas de montaje con equipo especializado, por ejemplo, son más eficientes cuando funcionan a una velocidad y no se pueden reducir, ni detener de forma intermitente sin graves pérdidas económicas. En tales casos, la atención cuidadosa al diseño fundamental del sistema de producción es un factor crítico en el éxito general del negocio.
     p.mt-4(data-aos="fade-right") Cuando se trata de elegir un método de producción, los fabricantes tienen tres tipos de sistemas que pueden escoger de acuerdo con la necesidad: sistema de producción continua, sistema de producción por lotes y sistema de producción por encargo.
 
-    
+    .mt-5.p-4.pt-lg-5.pb-lg-5(style="background-color:#FAF5EA;border-radius:30px;")
+      .col-xl-11.m-auto 
+        h5.mb-4.p-2.ps-3.pe-4(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Sistema de producción continua
+        .row.mt-4 
+          .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+            p Según lo inferido por Velasco (2015) determina que este tipo de fabricación no se somete a problemas complejos, puesto que la línea de producción es fija. Es un método que produce eficientemente grandes cantidades en un corto período de tiempo. 
+            p.mt-4 Es un sistema organizado que involucra maquinaria avanzada y produce grandes cantidades, asumiendo así tareas específicas, maquinaria especializada que entrega como resultado productos idénticos y la potencial optimización automatizada. Durante el procesamiento continuo, distintas partes fluyen de una máquina a la siguiente para hacer un producto terminado. No hay interrupciones entre las etapas de producción.
+          .col-lg-5(data-aos="fade-left" style="place-self:center;")
+            figure.m-auto.col-6.col-md-6.col-lg-12 
+              img(src="@/assets/curso/tema1/67.svg")
+        p.mt-5.fw-bold(data-aos="fade-right") Algunos ejemplos de este contexto se presentan en la siguiente tabla.
+
+        .col-xl-8.m-auto.mt-5.col-lg-10
+          .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+            h5 Tabla 2.
+            span Ejemplos de los sectores económicos y su maquinaria
+          .tabla-a.color-acento-botones.mt-4(data-aos="zoom-in-up")
+            table(style="min-width:100%;")
+              thead(style="border:0;")
+                tr(style="background-color:#583CB6;")
+                  th.text-center.text-white(style="border:0;border-right:1px #CBCBCB solid;width:30%;") Bienes
+                  th.text-center.text-white(style="border:0;") Servicios
+              tbody
+                tr(style="background-color:#fff;")
+                  td.text-center.p-4(style="border-right:1px #CBCBCB solid;border-left:0;") Petróleo
+                  td.text-center.p-4(style="border-right:0px;") Refinería de petróleo: combustible, gasolina, plástico, entre otros…
+                tr(style="background-color:#E8E8E8;")
+                  td.text-center.p-4(style="border-right:1px #CBCBCB solid;border-left:0;") Bebidas
+                  td.text-center.p-4(style="border-right:0px;") Plantas tecnológicas: productos de Coca-Cola
+                tr(style="background-color:#fff;")
+                  td.text-center.p-4(style="border-right:1px #CBCBCB solid;border-left:0;") Papel
+                  td.text-center.p-4(style="border-right:0px;") Máquinas, digestor: libros, resmas, cuadernos
+          
+        p.mt-5(data-aos="fade-right") La producción continua maneja un ciclo de tiempo de 24/7, es decir, las máquinas no paran, se encuentran activas las veinticuatro horas del día de los siete días de la semana, es por ello que se le denomina así a este tipo de sistema. Como sugerencia en el tiempo de producción no se pueden apagar las máquinas, ya que se debilita la calidad del producto terminado, generando un producto menos calificado que los demás. El descanso de las máquinas proviene previamente de una planeación socializada por el equipo de trabajo, en donde se ha establecido el horario para apagar las máquinas y aprovechar su descanso para hacer verificación, mantenimiento y vida útil o poder instalar nuevos equipos.
+
+        .row.mt-4 
+          .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+            p Para afianzar el desarrollo de los ejemplos anteriores, se ha tomado uno en particular, la industria del papel. Abarca varias máquinas para llevar a cabo los procesos de fabricación. Las máquinas vuelven los troncos en astillas, que luego se cocinan en el digestor que tiene la capacidad de recibir grandes volúmenes. Se convierten las astillas en pulpa, que será procesada por rodillos que se encuentran en máquinas automáticas para posteriormente ser secadas.
+            p.mt-4.fw-bold Finalmente, los beneficios de la implementación de la producción continua son:
+          .col-lg-5(data-aos="fade-left" style="place-self:center;")
+            figure.m-auto.col-6.col-md-6.col-lg-12 
+              img(src="@/assets/curso/tema1/68.svg")
+        .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
+          h5 Figura 3.
+          span Beneficios de la implementación
+        figure.mt-4(data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema1/69.svg")
+        .row.mt-5
+          .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+            p Dentro de sus atributos se encuentran las series de producción de diferentes tamaños, permitiendo que los productos se fabriquen por lotes con modificaciones importantes en el producto. Dicho en otras palabras, este método de fabricación se utiliza para producir artículos similares que requieren de ciertos ajustes durante el proceso de producción. El sistema radica en que cada lote pasa por una sola fase del proceso antes de pasar a la siguiente fase de fabricación, siendo el atractivo clave y principal que mueve a las empresas a utilizar esta solución de la diversidad de tamaños en la industria.
+            p.mt-4 Pueden ocurrir cambios entre diferentes lotes, como productos construidos en diferentes colores, tamaños y estilos. Si es necesario modificar un producto, esta variación se puede cambiar a medida que el proceso de producción cambia de un estilo de lote a otro. Es decir que, los artículos individuales no pasan a la siguiente fase de valor agregado hasta que todos los productos del lote hayan pasado por la anterior, creando un lote de productos terminados a la vez.
+          .col-lg-5(data-aos="fade-left" style="place-self:center;")
+            figure.m-auto.col-6.col-md-6.col-lg-12 
+              img(src="@/assets/curso/tema1/70.svg")
+        p.mt-4(data-aos="fade-right") La producción por lotes se asocia más comúnmente con las operaciones de fabricación de procesos en las que los bienes se producen mezclando o combinando componentes en un proceso, como alimentos, productos químicos, farmacéuticos, etc.; sin embargo, también se puede utilizar en la fabricación discreta donde los productos se ensamblan a partir de separar los componentes y luego se pueden desmontar, como equipos electrónicos o industriales. Algunos ejemplos de este sector se presentan en la siguiente tabla.
+        .col-xl-8.m-auto.mt-5.col-lg-10
+          .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
+            h5 Tabla 3.
+            span Ejemplos de sectores económicos en la producción por lotes
+          .tabla-a.color-acento-botones.mt-4(data-aos="zoom-in-up")
+            table(style="min-width:100%;")
+              thead(style="border:0;")
+                tr(style="background-color:#583CB6;")
+                  th.text-center.text-white(style="border:0;border-right:1px #CBCBCB solid;width:40%;") Actividad económica
+                  th.text-center.text-white(style="border:0;") Maquinaria
+              tbody
+                tr(style="background-color:#fff;")
+                  td.text-center.p-4(style="border-right:1px #CBCBCB solid;border-left:0;") Pan
+                  td.text-center.p-4(style="border-right:0px;") Refinería de petróleo: combustible, gasolina, plástico, entre otros…
+                tr(style="background-color:#E8E8E8;")
+                  td.text-center.p-4(style="border-right:1px #CBCBCB solid;border-left:0;") Ropa
+                  td.text-center.p-4(style="border-right:0px;") Plantas tecnológicas: productos de Coca-Cola
+                tr(style="background-color:#fff;")
+                  td.text-center.p-4(style="border-right:1px #CBCBCB solid;border-left:0;") Muebles
+                  td.text-center.p-4(style="border-right:0px;") Planos, autoensamblaje.
+                tr(style="background-color:#E8E8E8;")
+                  td.text-center.p-4(style="border-right:1px #CBCBCB solid;border-left:0;") Jabones
+                  td.text-center.p-4(style="border-right:0px;") Aromas e ingredientes.
+        p.mt-5(data-aos="fade-right") Para afianzar más el desarrollo de los ejemplos anteriores se ha tomado uno en particular: la panadería. Esta actividad económica produce lotes a razón de diferentes productos de consumo con la misma maquinaria.
+        p.mt-4.fw-bold(data-aos="fade-left") Finalmente, los beneficios de la implementación de la producción por lotes son:
+
+        .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
+          h5 Figura 4.
+          span Beneficios de la implementación por lotes
+        figure.mt-4(data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema1/71.svg")
+        h5.mb-4.p-2.ps-3.pe-4.mt-5(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Sistema de producción por encargo
+        .row
+          .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
+            p Conocida también como producción personalizada. Se centra en fabricar cantidades pequeñas para satisfacer las necesidades que para el método son específicas. Es así como el cliente tiene protagonismo en este método, puesto que las empresas utilizan los datos y aportes que el cliente suministra para fabricar productos por encargo o de manera personalizada. Aunque es un poco lenta comparada con los anteriores sistemas, las líneas de montaje siguen un orden específico de pautas. 
+            p.mt-4 La producción por encargo se caracteriza por su agilidad y capacidad para diseñar y fabricar productos únicos destinados a adaptarse a funciones o requisitos específicos. A diferencia de los productos producidos en masa, los productos hechos a medida se fabrican en cantidades más pequeñas sobre la base de un pedido. 
+          .col-lg-5(data-aos="fade-left" style="place-self:center;")
+            figure.m-auto.col-6.col-md-6.col-lg-12 
+              img(src="@/assets/curso/tema1/72.png")
+        p.mt-4(data-aos="fade-right") Con este mecanismo tiende a surgir estrecha relación entre quienes fabrican y el cliente, especialmente al principio, cuando se revisan los requisitos y se definen los pasos del proceso. Naturalmente, los productos personalizados también pueden requerir un mayor grado de garantía de calidad, ya que lo que es importante inspeccionar, medir y probar puede variar de un producto a otro, lo que hace que la metodología sea menos estándar.
+        p.mt-5.fw-bold(data-aos="fade-left") Algunos ejemplos de actividades económicas que implementan este sistema de producción son:
+        ul.lista-ul.mt-4.ps-lg-4(data-aos="zoom-in")
+          li.d-flex
+            i.fas.fa-check(style="color:#583CB6;")
+            | Instalación de aplicaciones
+          li.d-flex
+            i.fas.fa-check(style="color:#583CB6;")
+            | Fabricación de moldes
+          li.d-flex
+            i.fas.fa-check(style="color:#583CB6;")
+            | Placas de circuito impreso
+          li.d-flex
+            i.fas.fa-check(style="color:#583CB6;")
+            | Polímeros y plásticos
+          li.d-flex
+            i.fas.fa-check(style="color:#583CB6;")
+            | Componentes ópticos
+        p.mt-5.fw-bold(data-aos="fade-left") Finalmente, los beneficios de la implementación de la producción por encargo son:
+        .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
+          h5 Figura 5.
+          span Beneficios de la implementación por lotes
+        figure.mt-4(data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema1/73.jpg")
+
 
 
 
