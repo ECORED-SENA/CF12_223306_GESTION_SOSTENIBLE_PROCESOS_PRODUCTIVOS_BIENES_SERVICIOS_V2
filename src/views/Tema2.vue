@@ -8,18 +8,39 @@
       h1 Logística inversa en la cadena de suministros
       
     p(data-aos="fade-right") Nace por influencia de los requerimientos medioambientales y las devoluciones. Es un sector preponderante en la actividad logística que conlleva un conjunto de actividades, el siguiente gráfico representa algunas de estas.  
-
-    .col-xl-10.m-auto.mt-5
-      .p-4.p-lg-5.bg-white(style="border:3px #449C6E dashed;border-radius:58px;box-shadow:0px 0px 10px rgba(0,0,0,.15);")
-        figure(data-aos="zoom-in-up")
-          img(src="@/assets/curso/tema2/1.svg")
+    
+    .row.mt-5.justify-content-center
+      .col-lg.mb-4.mb-lg-0.col-md-8(data-aos="zoom-in")
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema2/39.svg')
+          .tarjeta.color-primario(style="background-color:#E2D9FF;")
+            .p-4.p-lg-5
+              p.mb-0 Procesos con connotaciones ecológicas, de recuperación y reciclaje de productos, a fin de evitar el deterioro del medioambiente.
+      .col-lg.mb-4.mb-lg-0.col-md-8(data-aos="zoom-in")
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema2/40.svg')
+          .tarjeta.color-primario(style="background-color:#E2D9FF;")
+            .p-4.p-lg-5
+              p.mb-0 Búsqueda de la potencialización e incremento de beneficios en los procesos productivos y de abastecimiento de mercados.
+      .col-lg.mb-4.mb-lg-0.col-md-8(data-aos="zoom-in")
+        .tarjeta-avatar
+          img(src='@/assets/curso/tema2/41.svg')
+          .tarjeta.color-primario(style="background-color:#E2D9FF;")
+            .p-4.p-lg-5
+              p.mb-0 Procesos de regreso o retorno por excesos de inventarios, devoluciones, inventarios estacionales y obsoletos sumado a actividades de retirada, clasificación, reacondicionamiento y reenvío al punto de venta o a mercados secundarios.
     
     p.mt-5(data-aos="fade-right") Este esquema trajo a la dinámica empresarial un aporte en diferentes áreas de la organización, gracias a que además de contribuir a un propósito mayor, genera beneficios en la responsabilidad social empresarial en cuanto a medioambiente. También, trajo consigo la reducción de costos por manejo posventa de productos y sus residuos, indiferente del sector al que pertenezcan e intrínsecamente conlleva al establecimiento de una cultura de autocuidado, cuidado del otro y el medioambiente. Todo esto son beneficios para la organización como el reconocimiento por una labor empresarial responsable; en algunos países se da la excepción fiscal generando a su vez el incremento de la riqueza, mayor valor a la empresa y un impacto benéfico en su entorno como en la comunidad que le rodea.
     p.mt-4(data-aos="fade-left") La dinámica de la logística inversa tiene presencia desde hace ya varias décadas en el crecimiento de las actividades económicas de manera ordenada, controlada y segura, pues en ella no se consideran únicamente los residuos y desechos, también toda la información que brinde y garantice la trazabilidad de los productos a fin de realizar una gestión empresarial responsable en todos sus ámbitos de influencia, generando una cultura organizacional mayormente fundamentada en su razón de ser y proyección; lo cual no solo enfoca la rentabilidad sino que incide en una generación de mayores y mejores resultados financieros al implementar esta estrategia, que aparentemente atañe al área de producción, pero que implementado en su operación regular genera cambios aún en el pensamiento y comportamiento del ser humano. La siguiente gráfica expone un flujo de logística directa e inversa para comprender visualmente esta área organizacional.
 
-    .mt-5.p-3.p-xl-5(style="background-color:#DEE4F0;")
-      figure(data-aos="zoom-in-up")
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
+      h5 Figura 7.
+      span Flujo de logística e inversa
+
+    .mt-4.p-3.p-xl-5(style="background-color:#DEE4F0;")
+      figure.d-none.d-lg-block(data-aos="zoom-in-up")
         img(src="@/assets/curso/tema2/2.svg")
+      figure.d-lg-none.col-md-8.m-auto(data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/42.svg")
     
     p.mt-5(data-aos="fade-right") En la actualidad las organizaciones se encuentran en constante búsqueda de alternativas que le permitan consolidarse como entidades competitivas, consiguiendo soluciones que les conllevan mayores retos, gracias al entorno que enfrentan como lo son la globalización y los avances tecnológicos. En este sentido, cada organización requiere diseñar una estructura y procesos conforme a las exigencias de los mercados, correspondiendo al postulado de que los bienes o servicios deben ser el resultado de altos estándares de calidad para lograr una mayor competitividad y participación; y esto es posible, cuando se saca el mayor beneficio de los factores internos y externos, que engranados favorecen las relaciones de intercambio en cada uno de los eslabones involucrados con la producción y comercialización de productos.
 
@@ -159,73 +180,99 @@
 
     p(data-aos="fade-left") El componente de la logística inversa trae consigo conceptos aplicados a la logística tradicional que es pertinente mencionar, vinculando nuevos conceptos específicos, que se presentan a continuación con el fin de contextualizarlos.
 
-    .mt-4.cont_pos_relative.cont_messages
-      .p-4.p-lg-5
-        .col-lg-7
+    .row.mt-5 
+      .col-md-6.mb-4(data-aos="fade-right")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
           .row
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(1)" @mouseleave="hideMessage(1)")
-                p.mb-0.text-center.w-100 Aprovisionamiento
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(2)" @mouseleave="hideMessage(2)")
-                p.mb-0.text-center.w-100 Gestión de la cadena de suministros
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(3)" @mouseleave="hideMessage(3)")
-                p.mb-0.text-center.w-100 Logística
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(4)" @mouseleave="hideMessage(4)")
-                p.mb-0.text-center.w-100 Canal de distribución
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(5)" @mouseleave="hideMessage(5)")
-                p.mb-0.text-center.w-100 Distribución
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(6)" @mouseleave="hideMessage(6)")
-                p.mb-0.text-center.w-100 Dirección de la cadena de suministros
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(7)" @mouseleave="hideMessage(7)")
-                p.mb-0.text-center.w-100 Compras
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(8)" @mouseleave="hideMessage(8)")
-                p.mb-0.text-center.w-100 Gestión de la cadena de suministros
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(9)" @mouseleave="hideMessage(9)")
-                p.mb-0.text-center.w-100 Logística inversa
-            .col-lg-4.mb-3.col-md-6
-              .h-100.bg-white.p-2.d-flex.flex-wrap.align-content-center.cont_custom_message(style="box-shadow:0px 0px 10px rgba(0,0,0,.15);border-radius:20px;cursor:pointer;" @mouseover="showMessage(10)" @mouseleave="hideMessage(10)")
-                p.mb-0.text-center.w-100 Valor generado por una cadena de suministro
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/43.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Aprovisionamiento
+          p.mt-4 Conjunto de actividades que garantizan el movimiento de los bienes desde el proveedor hasta el cliente, así como el transporte desde los almacenes hasta la capacidad productiva de la empresa. Conlleva actividades de compras, transporte, manipulación, almacenaje, manejo de inventarios, control de calidad, entre otras (Calderio, 2018).
+      .col-md-6.mb-4(data-aos="fade-left")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/44.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Canal de distribución
+          p.mt-4 Es el conjunto de participantes o partes interesadas en garantizar la llegada de un producto al cliente final. En el canal de distribución también podrían participar otros miembros llamados facilitadores, tal es el caso de bancos, empresas de investigación de mercados, minoristas de merchandising, agencias de publicidad, entre otras (Flores, 2019).
+      .col-md-6.mb-4(data-aos="fade-right")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/45.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Compras
+          p.mt-4 También conocidas como abastecimiento. Son el proceso mediante el cual las organizaciones adquieren materias primas (commodities), insumos, componentes, envases, servicios u otros recursos de los proveedores para ejecutar sus operaciones (Flores, 2019).
+      .col-md-6.mb-4(data-aos="fade-left")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/46.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Valor generado por una cadena de suministro
+          p.mt-4 Es la diferencia entre el valor del producto final para el cliente y los costos incurridos en la cadena para cumplir la petición de éste (Flores, 2019).
+      .col-md-6.mb-4(data-aos="fade-right")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/47.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Gestión de la cadena de suministros
+          p.mt-4 Es la acción de gestionar y administrar una actividad profesional destinada a establecer los objetivos, medios y sistemas para su realización, con el fin de elaborar la estrategia de desarrollo y ejecución, que incluye la administración de los recursos organizacionales, desde lo humano hasta lo económico (Flores, 2019).
+      .col-md-6.mb-4(data-aos="fade-left")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/48.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Distribución
+          p.mt-4 Hace referencia a los pasos a seguir para transportar y almacenar un producto desde la etapa del proveedor hasta llegar al cliente en la cadena de suministro. Las materias primas y los componentes se mueven de proveedores a fabricantes, por su parte los productos terminados se mueven del fabricante al consumidor final (Flores, 2019).
+      .col-md-6.mb-4(data-aos="fade-right")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/49.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Dirección de la cadena de suministros
+          p.mt-4 Un conjunto de actividades funcionales (transporte, control de inventarios, entre otros) repetidas muchas veces a lo largo del canal de flujo, mediante las cuales la materia prima se convierte en productos terminados y se añade valor para el consumidor (Flores, 2019).
+      .col-md-6.mb-4(data-aos="fade-left")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/50.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Logística
+          p.mt-4 Un conjunto de actividades funcionales (transporte, control de inventarios, entre otros) repetidas muchas veces a lo largo del canal de flujo, mediante las cuales la materia prima se convierte en productos terminados y se añade valor para el consumidor (Flores, 2019).
+      .col-md-6.mb-4(data-aos="fade-right")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/50.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Dirección de la cadena de suministros
+          p.mt-4 Conocida como dirección de la logística de los negocios y es considerada de acuerdo con su función como un conjunto de actividades pragmáticas como transporte y control de inventarios que se  repiten muchas veces en el trayecto del canal de flujo; a través de ellos la materia prima se convierte en productos terminados y se adiciona valor para el consumidor (Flores, 2019).
+      .col-md-6.mb-4(data-aos="fade-left")
+        .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
+          .row
+            .col-auto.pe-0
+              figure
+                img(src="@/assets/curso/tema2/51.svg")
+            .col.ps-0(style="place-self:center;")
+              h5 Logística inversa
+          p.mt-4 Denominada también como retrologística, logística de la recuperación y el reciclaje. Definida como un proceso de planificación, implantación y control eficiente del flujo efectivo de costos y almacenaje de materiales, inventarios en curso y productos terminados, así como la información relacionada desde el punto de consumo al punto de origen, con el fin de recuperar valor o asegurar su correcta eliminación (Rodríguez, 2003).
 
-        #cont_custom_message__message1.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Aprovisionamiento
-          p.mb-0 Conjunto de actividades que garantizan el movimiento de los bienes desde el proveedor hasta el cliente, así como el transporte desde los almacenes hasta la capacidad productiva de la empresa. Conlleva actividades de compras, transporte, manipulación, almacenaje, manejo de inventarios, control de calidad, entre otras (Calderio, 2018).
-        #cont_custom_message__message2.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Gestión de la cadena de suministros
-          p.mb-0 Es la acción de gestionar y administrar una actividad profesional destinada a establecer los objetivos, medios y sistemas para su realización, con el fin de elaborar la estrategia de desarrollo y ejecución, que incluye la administración de los recursos organizacionales, desde lo humano hasta lo económico (Flores, 2019).
-        #cont_custom_message__message3.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Logística
-          p.mb-0 Un conjunto de actividades funcionales (transporte, control de inventarios, entre otros) repetidas muchas veces a lo largo del canal de flujo, mediante las cuales la materia prima se convierte en productos terminados y se añade valor para el consumidor (Flores, 2019).
-        #cont_custom_message__message4.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Canal de distribución
-          p.mb-0 Es el conjunto de participantes o partes interesadas en garantizar la llegada de un producto al cliente final. En el canal de distribución también podrían participar otros miembros llamados facilitadores, tal es el caso de bancos, empresas de investigación de mercados, minoristas de merchandising, agencias de publicidad, entre otras (Flores, 2019).
-        #cont_custom_message__message5.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Distribución
-          p.mb-0 Hace referencia a los pasos a seguir para transportar y almacenar un producto desde la etapa del proveedor hasta llegar al cliente en la cadena de suministro. Las materias primas y los componentes se mueven de proveedores a fabricantes, por su parte los productos terminados se mueven del fabricante al consumidor final (Flores, 2019).
-        #cont_custom_message__message6.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Dirección de la cadena de suministros
-          p.mb-0 Un conjunto de actividades funcionales (transporte, control de inventarios, entre otros) repetidas muchas veces a lo largo del canal de flujo, mediante las cuales la materia prima se convierte en productos terminados y se añade valor para el consumidor (Flores, 2019).
-        #cont_custom_message__message7.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Compras
-          p.mb-0 También conocidas como abastecimiento. Son el proceso mediante el cual las organizaciones adquieren materias primas (commodities), insumos, componentes, envases, servicios u otros recursos de los proveedores para ejecutar sus operaciones (Flores, 2019).
-        #cont_custom_message__message8.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Gestión de la cadena de suministros
-          p.mb-0 Es la acción de gestionar y administrar una actividad profesional destinada a establecer los objetivos, medios y sistemas para su realización, con el fin de elaborar la estrategia de desarrollo y ejecución, que incluye la administración de los recursos organizacionales, desde lo humano hasta lo económico (Flores, 2019).
-        #cont_custom_message__message9.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Logística inversa
-          p.mb-0 Denominada también como retrologística, logística de la recuperación y el reciclaje. Definida como un proceso de planificación, implantación y control eficiente del flujo efectivo de costos y almacenaje de materiales, inventarios en curso y productos terminados, así como la información relacionada desde el punto de consumo al punto de origen, con el fin de recuperar valor o asegurar su correcta eliminación (Rodríguez, 2003).
-        #cont_custom_message__message10.custom_message.bg-white.p-3.m-auto(style="box-shadow:0px 0px 12px rgba(0,0,0,.15);border-radius:20px;position:absolute;width:90%;left:auto;opacity:0;")
-          h5 Valor generado por una cadena de suministro
-          p.mb-0 Es la diferencia entre el valor del producto final para el cliente y los costos incurridos en la cadena para cumplir la petición de éste (Flores, 2019).
-
-    p.mt-5(data-aos="fade-right") Todos estos conceptos son parte fundamental de la logística inversa. Definen un panorama empresarial estratégico que permite a su vez, definir de forma aún más detallada los procesos relacionados con la actividad económica y la cadena de suministros, la cual tiene como fin generar valor al cliente mediante la optimización de recursos y actividades en cada fase que la componen, al punto de garantizar de manera responsable que los residuos o vestigios del producto lleguen al proveedor del mismo, generando así una ventaja competitiva para la organización en cuanto a reducción de costos, cuidado del medioambiente y una imagen confiable hacia el cliente.
+    p.mt-3(data-aos="fade-right") Todos estos conceptos son parte fundamental de la logística inversa. Definen un panorama empresarial estratégico que permite a su vez, definir de forma aún más detallada los procesos relacionados con la actividad económica y la cadena de suministros, la cual tiene como fin generar valor al cliente mediante la optimización de recursos y actividades en cada fase que la componen, al punto de garantizar de manera responsable que los residuos o vestigios del producto lleguen al proveedor del mismo, generando así una ventaja competitiva para la organización en cuanto a reducción de costos, cuidado del medioambiente y una imagen confiable hacia el cliente.
     
     h5.mt-5.mb-4.p-2.ps-3.pe-4(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Principios básicos para la compra sostenible
 

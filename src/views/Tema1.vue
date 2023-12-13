@@ -504,13 +504,6 @@
           img(src="@/assets/curso/tema1/73.jpg")
 
 
-
-
-
-
-
-
-    
     p.mt-5(data-aos="fade-right") Recuerde siempre que la atención al diseño del sistema de producción es un factor crítico y fundamental en la selección del sistema de producción y por ende, en el éxito general del negocio.
 
     Separador
@@ -554,21 +547,25 @@
 
     p.mt-4(data-aos="fade-right") Cuando las empresas se arman con los instrumentos que solidifican el seguimiento a los procesos reducen riesgos tales como piezas defectuosas, cuellos de botella, entre otros hallazgos que suceden por no evidenciar e implementar controles para asegurar la calidad de los bienes y servicios. A partir  de la importancia de los programas informáticos para controlar que la producción sea idéntica en todos los lotes, se citan a continuación algunos de estos sistemas.
 
-    .row.mt-5
-      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
-        SlyderF(columnas="col-12")
-          .tarjeta.color-acento-botones.p-4(style="background-color:#FAEBCD;border-radius:0;")
-            h5(style="color:initial;") Programa Mapex Production Manager 7.0
-            p(style="color:initial;") Ayuda a las empresas en la planeación de la producción, el control de calidad y las operaciones de mantenimiento de equipos. Permite a los empleados capturar y almacenar datos de fabricación en un depósito centralizado y realizar un seguimiento de los lotes de producción y las materias primas. 
-            p.mt-4(style="color:initial;") Mapex ofrece una variedad de características que incluyen la administración de comunicaciones, alertas, diagramas de Gantt, administración de órdenes de trabajo y más. Además, permite a los gerentes recibir notificaciones automáticas sobre la demora en los procesos de programación de pedidos por correo electrónico o mensajes de texto, implementar procedimientos de control de calidad y administrar los permisos de los usuarios.
-          .tarjeta.color-acento-botones.p-4(style="background-color:#FAEBCD;border-radius:0;")
-            h5(style="color:initial;") Programa MES
-            p(style="color:initial;") Sus siglas en inglés son Manufacturing execution sistema-Mondragón, que no es otra cosa que el sistema de fabricación Mondragón y que según lo expuesto por el autor Velasco (2015) controla el estado de las máquinas, las órdenes de fabricación, la producción de los lotes y lo más importante de este sistema es que el equipo de medición permite hacer seguimiento a la planta manual y automática para así asegurar la calidad en la entrega del producto. 
-            p.mt-4(style="color:initial;") Aprovecha una comprensión más profunda de la información que afecta directamente el rendimiento y la calidad a través de la implementación de servicios que van desde equipos hasta software de planta. Cada sistema de información de calor y control se construye utilizando aspectos clave de la industria para una calidad óptima.
-      .col-lg-5(data-aos="fade-left")
-        .h-100.p-4.pb-0(style="background-color:#F0BD51;")
-          figure
-            img(src="@/assets/curso/tema1/51.svg")
+    .col-xl-10.m-auto.mt-5
+      .row.mt-5
+        .col-lg.mb-4.mb-lg-0(data-aos="fade-right")
+          .tarjeta-avatar
+            img(src='@/assets/curso/tema1/74.svg')
+            .tarjeta.color-primario(style="background-color:#FAEBCD;border-radius:0px;")
+              .p-4.p-lg-5
+                h5 Programa MES
+                p.mt-4 Sus siglas en inglés son #[em Manufacturing execution sistema-Mondragón], que no es otra cosa que el sistema de fabricación Mondragón y que según lo expuesto por el autor Velasco (2015) controla el estado de las máquinas, las órdenes de fabricación, la producción de los lotes y lo más importante de este sistema es que el equipo de medición permite hacer seguimiento a la planta manual y automática para así asegurar la calidad en la entrega del producto. 
+                p.mt-4 Aprovecha una comprensión más profunda de la información que afecta directamente el rendimiento y la calidad a través de la implementación de servicios que van desde equipos hasta software de planta. Cada sistema de información de calor y control se construye utilizando aspectos clave de la industria para una calidad óptima.
+        .col-lg.mb-4.mb-lg-0(data-aos="fade-left")
+          .tarjeta-avatar
+            img(src='@/assets/curso/tema1/75.svg')
+            .tarjeta.color-primario(style="background-color:#FAEBCD;border-radius:0px;")
+              .p-4.p-lg-5
+                h5 Programa #[em Mapex Production Manager] 7.0
+                p.mt-4 Ayuda a las empresas en la planeación de la producción, el control de calidad y las operaciones de mantenimiento de equipos. Permite a los empleados capturar y almacenar datos de fabricación en un depósito centralizado y realizar un seguimiento de los lotes de producción y las materias primas. 
+                p.mt-4 Mapex ofrece una variedad de características que incluyen la administración de comunicaciones, alertas, diagramas de Gantt, administración de órdenes de trabajo y más. Además, permite a los gerentes recibir notificaciones automáticas sobre la demora en los procesos de programación de pedidos por correo electrónico o mensajes de texto, implementar procedimientos de control de calidad y administrar los permisos de los usuarios.
+
     
     p.mt-5(data-aos="fade-right") Ahora bien, para ofrecer calidad en los productos que van a parar en el mercado, tenga en cuenta las recomendaciones necesarias en la implementación de estos controles en el área de producción:
 
@@ -603,36 +600,22 @@
             figure.m-auto.col-5.col-md-5.col-lg-12
               img(src="@/assets/curso/tema1/56.svg")
           .col-lg-7(data-aos="fade-left" style="place-self:center;")
-            h2 Mantenimiento productivo total - TPM: 
-            p Elimina los defectos y accidentes, mejora la calidad del producto ya que elimina el tiempo de inactividad. 
-            h2.mt-5 Sistema de las 5S: 
-            p.mb-0 Ayuda a estandarizar el lugar de trabajo, toma el control con la implementación de buenas prácticas del sistema, ya que permite mejorar los procedimientos y eliminar errores en las instalaciones. Aunque cada instalación tiene necesidades diferentes, lo relevante de esto es que simplifica el procedimiento y reduce errores en la fabricación.
+            .p-4
+              p.fw-bold Mantenimiento productivo total - TPM: 
+              p Elimina los defectos y accidentes, mejora la calidad del producto ya que elimina el tiempo de inactividad. 
+              p.fw-bold.mt-4 Sistema de las 5S: 
+              p.mb-0 Ayuda a estandarizar el lugar de trabajo, toma el control con la implementación de buenas prácticas del sistema, ya que permite mejorar los procedimientos y eliminar errores en las instalaciones. Aunque cada instalación tiene necesidades diferentes, lo relevante de esto es que simplifica el procedimiento y reduce errores en la fabricación.
     
     p.mt-5(data-aos="fade-right") Teniendo en cuenta lo anterior, como pasos y sugerencias para la implementación de los programas de calidad en la empresa se pueden representar los siguientes:
 
-    .mt-5.p-4.pb-5(style="background-color:#F6F6F6;bprder-radius:15px;")
-      figure(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema1/58.svg")
-      
-      .mt-5.p-4.bg-white(style="border:3px #707070 dashed;border-radius:56px;")
-        .row
-          .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
-            figure.m-auto.col-6.col-md-6.col-lg-12
-              img(src="@/assets/curso/tema1/59.svg")
-          .col-lg-8(data-aos="fade-left")
-            p Un aspecto fundamental es establecer alternativas para los defectos de las piezas, es decir, qué decisiones tomar con lotes que presentan desperfectos y que por tanto, no aprueban los estándares de calidad:
-            ul.lista-ul.mt-3.ps-lg-4
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Rechaza la producción.
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Realiza una nueva verificación a otras piezas (revisión de productos).
-              li.d-flex
-                i.fas.fa-check(style="color:#583CB6;")
-                | Paralizar la producción hasta hallar la causa.
-            .p-4(style="background-color:#583CB6;border-radius:29px;")
-              p.text-white.mb-0 Estas decisiones recaen en los responsables de generar calidad en los productos de la empresa, por tanto, es conveniente identificar la causa del defecto, efectuar modificaciones pertinentes para generar bienestar al consumidor a través de la seguridad del producto sin defectos.
+    .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
+      h5 Figura 6.
+      span Pasos y sugerencias de implementación
+    .mt-4.p-4.pb-5(style="background-color:#F6F6F6;bprder-radius:15px;border-radius:20px;")
+      figure.d-none.d-lg-block(data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/76.svg")
+      figure.d-lg-none.col-md-9.m-auto(data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/77.svg")
     
     p.mt-5(data-aos="fade-right") Además de todo esto, se pueden establecer otras herramientas que vigorizan el control de calidad, asegurando todos los pasos de la implementación y que adicional ayudan, a través de los datos, a determinar la mejora de la producción, las decisiones más convenientes para el bienestar y la relación empresa-consumidor. En las tarjetas se puede apreciar los instrumentos desde varios escenarios de errores en la fabricación:
 
@@ -662,36 +645,35 @@
     p.mt-4(data-aos="fade-left") Los datos más representativos que se calculan a partir de las tareas de producción se establecen en la orden, la cual muestra lo que se planeó inicialmente y cuál ha sido el desempeño y cumplimiento del plan. De ahí la importancia de conocer inicialmente cada uno de sus estados:
 
     .col-xl-10.m-auto.mt-5
-      figure
+      figure.d-none.d-lg-block
         img(src="@/assets/curso/tema1/63.svg" data-aos="zoom-in-up")
+      figure.d-lg-none.col-md-9.m-auto
+        img(src="@/assets/curso/tema1/78.svg" data-aos="zoom-in-up")
     
     p.mt-5(data-aos="fade-right") A continuación, se describe los principales datos que se verifican para saber hasta qué punto se ha desarrollado la planeación de la producción inicialmente con la orden de fabricación:
 
-    ImagenInfografica.color-acento-botones.mt-5.imageninfografica1(data-aos="zoom-in-up")
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/tema1/64.svg')
-      .tarjeta.color-acento-botones.p-3(x="3%" y="65%" numero="1" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-        h5.mb-0(style="color:inherit;") 1. Cantidad planeada de producción.
-        p.mb-0(style="color:inherit;") Es la cantidad de salida para la que se creó esta orden de producción. El sistema propone esta cantidad, pero se puede cambiar manualmente siempre que la orden de producción no esté en el estado cancelado, cerrado o finalizado.
-      .tarjeta.color-acento-botones.p-3(x="6%" y="19%" numero="2" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-        h5.mb-0(style="color:inherit;") 2. Cantidad  cumplida de producción.
-        p.mb-0(style="color:inherit;") Es la cantidad total del producto de salida que ha sido cumplida por la ejecución de la producción y notificada en lotes de fabricación.
-      .tarjeta.color-acento-botones.p-3(x="12%" y="71%" numero="3" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-        h5.mb-0(style="color:inherit;") 3. Cantidad  abierta. 
-        p.mb-0(style="color:inherit;") Es la cantidad restante, la diferencia de la cantidad cumplida menos la cantidad planeada.
-      .tarjeta.color-acento-botones.p-3(x="29%" y="47%" numero="4" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-        h5.mb-0(style="color:inherit;") 4. Desecho. 
-        p.mb-0(style="color:inherit;") Se puede calcular la cantidad de rechazo de la producción, por ende, es importante planear  un factor de desecho para el producto de salida o introducir el dato en la orden de producción.
-      .tarjeta.color-acento-botones.p-3(x="45%" y="60%" numero="5" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-        h5.mb-0(style="color:inherit;") 5. Fecha de inicio y final. 
-        p.mb-0(style="color:inherit;") Se transmiten desde la producción a partir de la cual se creó la orden de fabricación. Cuando las fechas son más tempranas, estas se calculan durante la programación y pueden ser modificadas antes de que la orden de producción se encuentre en estado de liberación. Luego, se ajusta la programación a través del sistema en toda la orden de producción con la nueva fecha y hora.
-      .tarjeta.color-acento-botones.p-3(x="57%" y="42%" numero="6" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-        h5.mb-0(style="color:inherit;") 6. Últimas fechas. 
-        p.mb-0(style="color:inherit;") Tanto la de inicio como la de fin se establecen durante la programación, puede hacer modificación de la última fecha y la hora de inicio antes del estado de liberación en la orden de producción.
-      .tarjeta.color-acento-botones.p-3(x="74.5%" y="52%" numero="7" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
-        h5.mb-0(style="color:inherit;") 7. Indicadores.
-        p.mb-0(style="color:inherit;") Se encargan de suministrar las variaciones que han sufrido las fechas más tempranas o las fechas últimas, si se han modificado manualmente, y esto incurre en la desviación de fechas planeadas inicialmente.
+    .row.mt-5 
+      .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
+        LineaTiempoD.color-acento-contenido
+          p.text-small(numero="1" titulo="Cantidad planeada de producción") Es la cantidad de salida para la que se creó esta orden de producción. El sistema propone esta cantidad, pero se puede cambiar manualmente siempre que la orden de producción no esté en el estado cancelado, cerrado o finalizado.
+          p.text-small(numero="2" titulo="Cantidad  cumplida de producción") Es la cantidad total del producto de salida que ha sido cumplida por la ejecución de la producción y notificada en lotes de fabricación.
+          p.text-small(numero="3" titulo="Cantidad  abierta") Es la cantidad restante, la diferencia de la cantidad cumplida menos la cantidad planeada.
+      .col-lg-7(data-aos="fade-left")
+        figure.m-auto.col-7.col-md-7.col-lg-12
+          img(src="@/assets/curso/tema1/79.svg")
+    .row.mt-4
+      .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
+        figure.m-auto.col-7.col-md-7.col-lg-12
+          img(src="@/assets/curso/tema1/80.svg")
+      .col-lg-5(data-aos="fade-left")
+        LineaTiempoD.color-acento-contenido
+          p.text-small(numero="4" titulo="Desecho") Se puede calcular la cantidad de rechazo de la producción, por ende, es importante planear  un factor de desecho para el producto de salida o introducir el dato en la orden de producción.
+          p.text-small(numero="5" titulo="Fecha de inicio y final") Se transmiten desde la producción a partir de la cual se creó la orden de fabricación. Cuando las fechas son más tempranas, estas se calculan durante la programación y pueden ser modificadas antes de que la orden de producción se encuentre en estado de liberación. Luego, se ajusta la programación a través del sistema en toda la orden de producción con la nueva fecha y hora.
+          p.text-small(numero="6" titulo="Últimas fechas") Tanto la de inicio como la de fin se establecen durante la programación, puede hacer modificación de la última fecha y la hora de inicio antes del estado de liberación en la orden de producción.
+          p.text-small(numero="7" titulo="Indicadores") Se encargan de suministrar las variaciones que han sufrido las fechas más tempranas o las fechas últimas, si se han modificado manualmente, y esto incurre en la desviación de fechas planeadas inicialmente.
+
+
+
 
     p.mt-5(data-aos="fade-right") Una orden de producción puede tener varios puntos de notificación en los que se confirma el progreso de la misma. Los productos involucrados en una orden de producción se especifican mediante productos de entrada y de salida. Los productos de entrada son necesarios para llevar a cabo la orden de producción y para los cuales se establecen actividades y se marcan como relevantes para el suministro de producción. Siempre que se haya liberado la orden de producción puede modificarse la cantidad planeada. El sistema notifica la cantidad cumplida para el producto de entrada en la orden de fabricación. Los productos de salida pueden ser principales o derivados, la cantidad planeada puede modificarse para el producto de salida hasta el estado de liberación de la orden de fabricación. En el informe final se comunica la cantidad de productos de salida.
     p.mt-4(data-aos="fade-left") Ahora bien, hay algunas acciones específicas que permiten gestionar las órdenes de fabricación, tales como:
@@ -705,7 +687,7 @@
 
     .col-xl-8.m-auto.mt-5.col-lg-10
       .titulo-sexto.color-acento-contenido(data-aos="zoom-in-down")
-        h5 Tabla 2.
+        h5 Tabla 4.
         span Comparación entre dos estados de una orden de producción
       .tabla-a.color-acento-botones.mt-4(data-aos="zoom-in-up")
         table
@@ -824,4 +806,6 @@ export default {
   border: 4px #A5F6CC solid
 .imageninfografica1.img-infografica.color-primario .img-infografica__item__numero, .img-infografica-b.color-primario .img-infografica__item__numero
   color: #fff
+.linea-tiempo-d__item--selected .tarjeta--gris
+  background-color: #E2D9FF
 </style>
