@@ -33,14 +33,14 @@
     p.mt-4(data-aos="fade-left") La dinámica de la logística inversa tiene presencia desde hace ya varias décadas en el crecimiento de las actividades económicas de manera ordenada, controlada y segura, pues en ella no se consideran únicamente los residuos y desechos, también toda la información que brinde y garantice la trazabilidad de los productos a fin de realizar una gestión empresarial responsable en todos sus ámbitos de influencia, generando una cultura organizacional mayormente fundamentada en su razón de ser y proyección; lo cual no solo enfoca la rentabilidad sino que incide en una generación de mayores y mejores resultados financieros al implementar esta estrategia, que aparentemente atañe al área de producción, pero que implementado en su operación regular genera cambios aún en el pensamiento y comportamiento del ser humano. La siguiente gráfica expone un flujo de logística directa e inversa para comprender visualmente esta área organizacional.
 
     .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
-      h5 Figura 7.
+      h5 Figura 5.
       span Flujo de logística e inversa
 
     .mt-4.p-3.p-xl-5(style="background-color:#DEE4F0;")
       figure.d-none.d-lg-block(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema2/2.svg")
+        img(src="@/assets/curso/tema2/2.svg", alt="Esquema de la logística directa e inversa.")
       figure.d-lg-none.col-md-8.m-auto(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema2/42.svg")
+        img(src="@/assets/curso/tema2/42.svg", alt="Esquema de la logística directa e inversa.")
     
     p.mt-5(data-aos="fade-right") En la actualidad las organizaciones se encuentran en constante búsqueda de alternativas que le permitan consolidarse como entidades competitivas, consiguiendo soluciones que les conllevan mayores retos, gracias al entorno que enfrentan como lo son la globalización y los avances tecnológicos. En este sentido, cada organización requiere diseñar una estructura y procesos conforme a las exigencias de los mercados, correspondiendo al postulado de que los bienes o servicios deben ser el resultado de altos estándares de calidad para lograr una mayor competitividad y participación; y esto es posible, cuando se saca el mayor beneficio de los factores internos y externos, que engranados favorecen las relaciones de intercambio en cada uno de los eslabones involucrados con la producción y comercialización de productos.
 
@@ -110,7 +110,7 @@
                 | Realiza funciones básicas como: transacción, logística, facilitación y promoción.
               li.d-flex
                 i.fas.fa-check(style="color:#583CB6;")
-                | Vincula miembros llamados facilitadores como bancos, empresas de investigación de mercados, minoristas de merchandising, agencias de publicidad, entre otras.
+                span.mb-0 Vincula miembros llamados facilitadores como bancos, empresas de investigación de mercados, minoristas de #[em merchandising], agencias de publicidad, entre otras.
         .row.col-xl-12.m-auto(titulo="Almacenaje <br> y acopio")
           .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
             figure.m-auto.col-7.col-md-7.col-lg-12
@@ -198,7 +198,7 @@
                 img(src="@/assets/curso/tema2/44.svg")
             .col.ps-0(style="place-self:center;")
               h5 Canal de distribución
-          p.mt-4 Es el conjunto de participantes o partes interesadas en garantizar la llegada de un producto al cliente final. En el canal de distribución también podrían participar otros miembros llamados facilitadores, tal es el caso de bancos, empresas de investigación de mercados, minoristas de merchandising, agencias de publicidad, entre otras (Flores, 2019).
+          p.mt-4 Es el conjunto de participantes o partes interesadas en garantizar la llegada de un producto al cliente final. En el canal de distribución también podrían participar otros miembros llamados facilitadores, tal es el caso de bancos, empresas de investigación de mercados, minoristas de #[em merchandising], agencias de publicidad, entre otras (Flores, 2019).
       .col-md-6.mb-4(data-aos="fade-right")
         .h-100.p-4(style="background-color:#FAEBCD;border-radius:20px;box-shadow:0px 0px 5px 2px rgba(0,0,0,.1);")
           .row
@@ -292,12 +292,12 @@
     p.mt-4(data-aos="fade-left") La norma internacional sobre responsabilidad social llamada ISO 26000 establece siete puntos fundamentales que las empresas y organizaciones deben tener en cuenta al definir sus estrategias de RS. Estos se presentan en el siguiente gráfico.
 
     .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
-      h5 Figura 8.
+      h5 Figura 6.
       span Aspectos para definir las estrategias
     .p-3.p-lg-4.pb-xl-5.pt-xl-5.mt-4(style="background-color:#DEE4F0;")
       .col-xl-9.m-auto
         figure(data-aos="zoom-in-up")
-          img(src="@/assets/curso/tema2/11.svg")
+          img(src="@/assets/curso/tema2/11.svg", alt="Aspectos para definir las estrategias, de acuerdo con la norma internacional ISO 26000.")
     
     .col-xl-10.m-auto.mt-5
       .p-4(style="background-color:#FDF5E5;" data-aos="flip-up")
@@ -441,7 +441,7 @@
       .col-xl-10.m-auto
         h5(data-aos="zoom-in") Aplicación de estrategias de logística a la inversa
         p.mt-4(data-aos="fade-right") A continuación se presenta un ejemplo de los resultados obtenidos en la implementación de estrategias de logística a la inversa clasificadas de acuerdo con el sector y beneficios o ventajas que aporta.
-        p.mt-4(data-aos="fade-left") Presenta resultados a favor de las empresas que implementan estas estrategias, así como el fortalecimiento de las relaciones con stakeholders al vincularse en este tipo de procesos, la indiscutible reducción de costos e incremento de rentabilidad, y la cultura del cuidado al medioambiente desde el ámbito organizacional, lo cual parecía ser imposible y alejado de los objetivos empresariales (González, 2020). 
+        p.mt-4(data-aos="fade-left") Presenta resultados a favor de las empresas que implementan estas estrategias, así como el fortalecimiento de las relaciones con #[em stakeholders] al vincularse en este tipo de procesos, la indiscutible reducción de costos e incremento de rentabilidad, y la cultura del cuidado al medioambiente desde el ámbito organizacional, lo cual parecía ser imposible y alejado de los objetivos empresariales (González, 2020). 
         a.anexo.mt-4.col-lg-7(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" data-aos="fade-right" style="background-color:#FAEBCD;")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
@@ -453,7 +453,7 @@
     .row
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
         p La logística integral aparece desde 1980, consistiendo en concentrar la totalidad de la responsabilidad del suministro y el costo global en un único fin; ya para el Siglo XXI se concentra la atención en conocer los recursos requeridos para producir un producto hasta su consumo final, lo que enfoca a todos los vinculados en la cadena en trabajar en relaciones gana – gana. Luego, enfoca el esfuerzo en la oportunidad de entrega de los productos, la cual no depende de la velocidad al asumir un reto, sino en la capacidad de trabajar de manera mancomunada a través de diferentes miembros de la cadena productiva, lo que permite ubicar la competencia dentro de la misma y no como una fuerza individual.
-        p.mt-4 En la época actual las organizaciones deben centrar sus esfuerzos en reducir tanto el precio de venta como el costo del producto para mantenerse avante en medio de los cambios del modelo económico. Este reto será posible solo si se esfuerza en diseñar y dar desarrollo a productos con características más económicas en sí mismo o en reducir de manera significativa lo costos de la logística de provisión de materia prima e insumos, producción o elaboración y la distribución; de no ser así es imposible alcanzar la reducción en costos propuesta.
+        p.mt-4 En la época actual las organizaciones deben centrar sus esfuerzos en reducir tanto el precio de venta como el costo del producto para mantenerse avante en medio de los cambios del modelo económico. Este reto será posible solo si se esfuerza en diseñar y dar desarrollo a productos con características más económicas en sí mismo o en reducir de manera significativa los costos de la logística de provisión de materia prima e insumos, producción o elaboración y la distribución; de no ser así es imposible alcanzar la reducción en costos propuesta.
       .col-lg-4(data-aos="fade-left" style="place-self:center;")
         figure.m-auto.col-5.col-md-6.col-lg-12
           img(src="@/assets/curso/tema2/28.svg")
@@ -462,7 +462,7 @@
       .p-4(style="background-color:#FAEBCD;" data-aos="flip-up")
         p.mb-0 Es en este panorama donde la logística directa o tradicional no puede competir con la logística inversa donde se aplican métodos que antes no se consideraban, donde cobra real importancia los beneficios de una estrategia colaborativa en la cadena productiva, donde deben estar vinculados todos los actores, productor, proveedor, cliente, terceros y competencia consolidando esta estrategia como un factor determinante de competitividad (Oltra, 2015).
     
-    p.mt-5(data-aos="fade-right") La gestión de la logística inversa, conocida internacionalmente como Reserve Supply Chain Management (RSCM), cubre todo un amplio abanico del flujo de productos y complementos, que se inicia después de la entrega del suministro primario y que conocido tradicionalmente por el nombre de devoluciones, ampara la optimización de este flujo inverso de productos y embalajes analizando todas las posibilidades: reutilización, reparación, restauración, remanufactura parcial, reciclado de materias primas o eliminación definitiva, decidiendo en cada caso que se tiene cómo se usa o aplica y en qué momento.
+    p.mt-5(data-aos="fade-right") La gestión de la logística inversa, conocida internacionalmente como #[em Reserve Supply Chain Management] (RSCM), cubre todo un amplio abanico del flujo de productos y complementos, que se inicia después de la entrega del suministro primario y que conocido tradicionalmente por el nombre de devoluciones, ampara la optimización de este flujo inverso de productos y embalajes analizando todas las posibilidades: reutilización, reparación, restauración, remanufactura parcial, reciclado de materias primas o eliminación definitiva, decidiendo en cada caso que se tiene cómo se usa o aplica y en qué momento.
 
     .col-xl-10.m-auto.mt-5
       .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="flip-up")
@@ -475,26 +475,26 @@
     p.mt-5(data-aos="fade-right") Existen modelos de empresas que implementan esta estrategia empresarial como la organización SIGRE o Sistema integrado de gestión de residuos y envases, la cual posee una planta especializada sostenida económicamente por los laboratorios que la integran, quienes pueden contar en sus envases de medicamentos con su logo, lo que implica que pacientes o usuarios deben desechar productos o medicamentos vencidos, en mal estado o que no utilizan en contenedores ubicados en las farmacias, con el fin de proceder a su eliminación controlada. De esta manera, el manejo posterior consiste en clasificar los medicamentos y enviarlos a gestores autorizados de residuos que realizan su disposición final. A continuación, se presenta el esquema de logística inversa de SIGRE.
 
     .titulo-sexto.color-acento-contenido.mt-5(data-aos="fade-right")
-      h5 Figura 11.
+      h5 Figura 7.
       span Esquema SIGRE
     .p-4.mt-4(style="background-color:#F6F6F6;")
       .col-xl-10.m-auto
         figure.d-none.d-lg-block(data-aos="zoom-in-up")
-          img(src="@/assets/curso/tema2/30.svg")
+          img(src="@/assets/curso/tema2/30.svg", alt="Esquema de logística inversa de SIGRE del área farmacéutica.")
         figure.d-lg-none(data-aos="zoom-in-up")
-          img(src="@/assets/curso/tema2/31.svg")
+          img(src="@/assets/curso/tema2/31.svg", alt="Esquema de logística inversa de SIGRE del área farmacéutica.")
     
     p.mt-5(data-aos="fade-right") Este esquema se ha puesto en marcha a fin de garantizar el control y seguridad en todas las etapas del proceso y ejercer vigilancia por las autoridades ambientales y sanitarias para otorgar permisos al acceder o corroborar la información o realizar las correspondientes inspecciones, además de los mecanismos utilizados por la entidad mediante auditorías, instrucciones técnicas específicas, protocolos de seguridad y trazabilidad del producto; lo anterior fundamentado en la aplicación de las normas técnicas pertinentes en lo referente a sistemas de gestión de calidad, sistemas de gestión ambiental y lo relacionado a seguridad y salud en el trabajo, comprometiendo así a los productores a responsabilizarse de su recogida, separación, clasificación de materiales y su posterior destrucción, valoración energética, reciclado del metal, aluminio, plásticos, cartón y vidrio.
     p.mt-4(data-aos="fade-left") Tal es el caso aplicado de la logística de SIGRE, para continuar con el ejemplo, en el que se pudo corroborar la disminución de costos posteriores a la recolección y disposición de desechos de medicamentos, transfiriendo esta responsabilidad a los agentes comerciales que se encargan de colocar el producto en el mercado; pero sin abandonar la responsabilidad empresarial de generar todos los canales requeridos para garantizar que esta labor se realice de manera óptima. A continuación, se presentan los resultados obtenidos en cifras por SIGRE en el periodo de 2003 a 2008.
 
     .col-xl-8.m-auto.mt-5
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-        h5 Figura 12.
+        h5 Figura 8.
         span Resultado del sistema de SIGRE en cifras
       .p-4.mt-4(style="background-color:#fff;box-shadow:0px 3px 8px rgba(0,0,0,.12);")
         .col-xl-10.m-auto
           figure(data-aos="zoom-in-up")
-            img(src="@/assets/curso/tema2/32.svg")
+            img(src="@/assets/curso/tema2/32.svg", alt="Gráfico en el que se evidencia la disminución de costos luego de la recolección y disposición de desechos entre los años 2003 al 2008, relacionando kilogramo sobre habitante y mes.")
       figcaption.mt-3.fw-normal(style="background-color:#E8E8E8;") Nota. Tomado de Cabeza (2012).
     
     .col-xl-10.m-auto.mt-5
@@ -568,15 +568,15 @@
           .row.col-xl-11.m-auto(titulo="Contactual")
             p Implica el contacto que se da entre los diferentes actores como facilitadores e intermediarios a medida que el producto se traslada por el canal hasta llegar al consumidor final a través de negociaciones, acciones para motivar la demanda, compra, venta, transferencia de propiedad de bienes y servicios.
           .row.col-xl-11.m-auto(titulo="Logística")
-            p Encargada de trasladar los productos por el canal definido en los lugares y manera adecuada, además del compromiso de la gestión del marketing en cuanto a las decisiones estratégicas y la estructura más apropiada del canal, lo que implica que diferentes actores tendrán la oportunidad de tomar decisiones por lo que se hace necesario establecer relaciones asociadas entre las partes como estrategia de trascendencia para el canal de distribución.
+            p Encargada de trasladar los productos por el canal definido en los lugares y manera adecuada, además del compromiso de la gestión del #[em marketing] en cuanto a las decisiones estratégicas y la estructura más apropiada del canal, lo que implica que diferentes actores tendrán la oportunidad de tomar decisiones por lo que se hace necesario establecer relaciones asociadas entre las partes como estrategia de trascendencia para el canal de distribución.
           .row.col-xl-11.m-auto(titulo="Objetivos de distribución")
-            p Se enfoca en lograr los objetivos planteados en la distribución y en el marketing en cuanto a finanzas, volumen de ventas, retornos, participación en el mercado, imagen, servicio al cliente, crecimiento y posicionamiento.
+            p Se enfoca en lograr los objetivos planteados en la distribución y en el #[em marketing] en cuanto a finanzas, volumen de ventas, retornos, participación en el mercado, imagen, servicio al cliente, crecimiento y posicionamiento.
 
     .col-xl-10.m-auto.mt-5
       .p-4(style="background-color:#FAEBCD;" data-aos="flip-up")
-        p.mb-0 Es importante tener en cuenta que el funcionamiento exitoso del canal de distribución de la gestión estratégica comercial se define a partir de la estrategia competitiva, de comunicación, el mercado meta, la determinación de costos de las diferentes alternativas, la puesta en marcha y monitoreo del sistema, la investigación permanente y los objetivos generales del plan de marketing y de la empresa.
+        p.mb-0 Es importante tener en cuenta que el funcionamiento exitoso del canal de distribución de la gestión estratégica comercial se define a partir de la estrategia competitiva, de comunicación, el mercado meta, la determinación de costos de las diferentes alternativas, la puesta en marcha y monitoreo del sistema, la investigación permanente y los objetivos generales del plan de #[em marketing] y de la empresa.
     
-    p.mt-5(data-aos="fade-right") De igual manera, existe la gestión logística o distribución física de los productos en el momento, lugar y forma necesaria apegada a las decisiones estratégicas del plan de marketing; sin embargo, y a pesar de estar apegada al mix de mercadeo, esta es el componente menos controlable, los cuales en el desempeño de su función se ven influenciados por variables macroambientales como económicas, socioculturales, políticas, legales, tecnológicas, físicas y climáticas. De la misma manera, está permeado por variables microambientales como proveedores, intermediarios, clientes y competencia.
+    p.mt-5(data-aos="fade-right") De igual manera, existe la gestión logística o distribución física de los productos en el momento, lugar y forma necesaria apegada a las decisiones estratégicas del plan de #[em marketing]; sin embargo, y a pesar de estar apegada al mix de mercadeo, esta es el componente menos controlable, los cuales en el desempeño de su función se ven influenciados por variables macroambientales como económicas, socioculturales, políticas, legales, tecnológicas, físicas y climáticas. De la misma manera, está permeado por variables microambientales como proveedores, intermediarios, clientes y competencia.
     p.mt-4(data-aos="fade-left") Todas estas variables deben ser observadas con precaución para estar preparados ante los cambios que puedan surgir y el impacto que generen inciden en el desempeño futuro del canal de distribución. Algunas de las tendencias del entorno se explican a continuación para una mayor comprensión.
 
     .row.mt-5

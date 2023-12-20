@@ -16,7 +16,7 @@
           p Conforma el crecimiento económico de un país que puede ser comparado entre vigencias actuales y anteriores. Cuando el valor de la producción de bienes y servicios aumenta genera como resultados grandes ganancias para la empresa y, por ende, el alza a los precios de acciones más altos que contribuyen a la contratación de talento humano necesario para cumplir con la entrega de la producción. En el accionar del crecimiento económico, siendo este uno de los indicadores que se observan en el mercado, como tal se tienen en cuenta la inflación, el producto nacional bruto y el producto interno bruto, mediciones que se estudian para establecer el impacto económico y, por tanto, la versatilidad de los bienes y servicios.
     
     .cont_1_2.mt-5.pt-4.pb-4(data-aos="zoom-in-up")
-      p La programación de la producción consiste en la asignación de material (materia prima), mano de obra y procesos para fabricar bienes para los clientes. Incluye acciones tales como la distribución de horas en las que estarán operando las máquinas (hora de inicio y finalización de los procesos de producción) y la mano de obra que las manipula, cumpliendo así con los tiempos pactados. También, tiene en cuenta otros aspectos involucrados como el stock para evitar que disminuya el curso de producción y se conserve con lo planificado por la empresa.
+      p La programación de la producción consiste en la asignación de material (materia prima), mano de obra y procesos para fabricar bienes para los clientes. Incluye acciones tales como la distribución de horas en las que estarán operando las máquinas (hora de inicio y finalización de los procesos de producción) y la mano de obra que las manipula, cumpliendo así con los tiempos pactados. También, tiene en cuenta otros aspectos involucrados como el #[em stock] para evitar que disminuya el curso de producción y se conserve con lo planificado por la empresa.
       p.mt-4.mb-0 En otras palabras, la programación de la producción busca que el proceso funcione adecuadamente tanto en los recursos de producción como con los requisitos disponibles de la manera más rentable posible. 
     
     .col-xl-10.m-auto.mt-5
@@ -148,17 +148,17 @@
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema1/16.svg')
-      .tarjeta.color-acento-botones.p-3(x="15%" y="50.5%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
+      .tarjeta.color-acento-botones.p-3(x="14.7%" y="51%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
         p.mb-0(style="color:inherit;") #[strong(style="color:inherit;") Diseño del producto.] La empresa se acercará al mercado con productos económicos y valiosos que garanticen el éxito y el progreso de la empresa. Por ello, el producto que va a ser producido por la empresa debe seleccionarse y diseñarse, utilizando la ingeniería de valor y el análisis de valor.
       .tarjeta.color-acento-botones.p-3(x="35.5%" y="27%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
         p.mb-0(style="color:inherit;") #[strong(style="color:inherit;") Proceso de producción.] Aquí juega un papel importante la planeación, teniendo en cuenta detalles como la mano de obra requerida para producir, el tipo de tecnología que se utilizará, el capital que se requiere, las máquinas y el sistema de producción adecuado. Lo anterior, será seleccionado y preparado para una función de trabajo exitosa.
       .tarjeta.color-acento-botones.p-3(x="49%" y="8%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
         p.mb-0(style="color:inherit;") #[strong(style="color:inherit;") Capacidad de producción.] Intervienen términos como la demanda y el punto de equilibrio, los cuales deben coincidir con la capacidad de producción. Dicho en otras palabras, es relevante la planeación de la capacidad de producción, ya que puede surgir  una valoración inadecuada que pueda afectar la producción del bien, puesto que una capacidad mayor o menor que la que realmente se necesita puede crear problemas.
-      .tarjeta.color-acento-botones.p-3(x="54%" y="49%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
+      .tarjeta.color-acento-botones.p-3(x="53.7%" y="49%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
         p.mb-0(style="color:inherit;") #[strong(style="color:inherit;") Planeación de la producción.]  Aquí se alista la operación secuencial que tendrá lugar, mientras que la programación es el medio para planificar todo el proceso de producción, cuándo se iniciará y cuándo finalizará la actividad.
       .tarjeta.color-acento-botones.p-3(x="60%" y="68.5%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
         p.mb-0(style="color:inherit;") #[strong(style="color:inherit;") Control de producción, calidad, costes e inventario.]  Tomar las medidas necesarias para corregir desviaciones en la producción y el proceso real. Los productos han de ser de primera calidad con precios justos y bajos. La abundancia y la escasez de inventarios no son apropiados, por tanto, en el área de producción se controlará efectivamente los inventarios para que no se desperdicien o se mal utilicen.
-      .tarjeta.color-acento-botones.p-3(x="78.5%" y="51.5%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
+      .tarjeta.color-acento-botones.p-3(x="78.4%" y="51%" numero="+" style="background-color:#fff;box-shadow:0px 0px 20px rgba(0,0,0,.15);")
         p.mb-0(style="color:inherit;") #[strong(style="color:inherit;") Mantenimiento y sustitución de equipo y maquinaria implementada.]  La maquinaria que sea necesaria para la producción será revisada antes del proceso de producción, además han de contar con un sistema para inspeccionarse periódicamente, en donde se haga el lavado, reparación, cambio de repuestos, entre otros procedimientos técnicos para el mantenimiento.
     
     p.mt-5(data-aos="fade-right") Ayudar a las empresas a cumplir sus objetivos tiene su génesis en las áreas de producción y servicios. El pilar o la mina de oro se esconde en las necesidades humanas a satisfacer, por tanto, el cliente o consumidor tendrá las expectativas y deseos puestos en los resultados de esta área de producción, quien viene a ser el engranaje con las demás áreas que conforman la empresa. 
@@ -179,22 +179,22 @@
     .row.justify-content-center
       .col-lg.col-md-6(data-aos="zoom-in")
         .h-100.p-4(style="background-color:#F6F6F6;")
-          p.text-center Si tiene sed, bebe agua
+          p.text-center Si tiene sed, bebe agua.
           figure.m-auto.col-6.col-md-7.col-lg-12
             img(src="@/assets/curso/tema1/18.svg")
       .col-lg.col-md-6(data-aos="zoom-in")
         .h-100.p-4(style="background-color:#fff;")
-          p.text-center Si va a escribir, usa un esfero y papel
+          p.text-center Si va a escribir, usa un esfero y papel.
           figure.m-auto.col-6.col-md-7.col-lg-12
             img(src="@/assets/curso/tema1/19.svg")
       .col-lg.col-md-6(data-aos="zoom-in")
         .h-100.p-4(style="background-color:#F6F6F6;")
-          p.text-center Si tiene ropa sucia, hace uso de la lavadora
+          p.text-center Si tiene ropa sucia, hace uso de la lavadora.
           figure.m-auto.col-6.col-md-7.col-lg-12
             img(src="@/assets/curso/tema1/20.svg")
       .col-lg.col-md-6(data-aos="zoom-in")
         .h-100.p-4(style="background-color:#fff;")
-          p.text-center El médico receta el medicamento correcto para la cura de una enfermedad
+          p.text-center El médico receta el medicamento correcto para la cura de una enfermedad.
           figure.m-auto.col-6.col-md-7.col-lg-12
             img(src="@/assets/curso/tema1/21.svg")
       .col-lg.col-md-6(data-aos="zoom-in")
@@ -248,14 +248,16 @@
     .titulo-segundo(data-aos="zoom-in-right")
       h2#t_1_2 1.2  Modelos de planeación y control de procesos
     
-    p(data-aos="fade-right") Los estándares de la planeación son responsables de analizar e interpretar, a través de factores cualitativos o cuantitativos en los que se pueda establecer esquemas para dirigir la planificación de la demanda, la producción futura y las operaciones financieras y de marketing en la empresa, es decir, que los modelos de planeación son transversales con la previsión empresarial en donde se efectúan estimaciones acerca del futuro en las operaciones de producción y comercialización diagnosticada por la investigación.
+    p(data-aos="fade-right") Los estándares de la planeación son responsables de analizar e interpretar, a través de factores cualitativos o cuantitativos en los que se pueda establecer esquemas para dirigir la planificación de la demanda, la producción futura y las operaciones financieras y de #[em marketing] en la empresa, es decir, que los modelos de planeación son transversales con la previsión empresarial en donde se efectúan estimaciones acerca del futuro en las operaciones de producción y comercialización diagnosticada por la investigación.
     p.mt-4(data-aos="fade-left") Uno de los modelos que se planifica en el área de producción es el de pronósticos, pues en este se encuentran pronósticos cuantitativos, cualitativos, la previsión de la demanda, enfocados en evitar la sobreproducción y la subproducción. Para realizar un pronóstico de demanda sistemático y científico los analistas deben determinar lo que están midiendo y la perspectiva de tiempo, seleccionar un tipo y método de pronóstico de demanda y luego recopilar, analizar e interpretar los resultados. A continuación, se presentan algunos de estos modelos.
 
     h4.mt-5(data-aos="fade-right") Modelos de pronóstico
 
     figure.mt-4(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/ASKSoV1YHYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video. Modelo de pronóstico
+   
     
     h5.mt-5.mb-4.p-2.ps-3.pe-4(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Sistemas ERP y MRP
     p(data-aos="fade-left") El siguiente recurso desarrolla en qué consiste cada uno de estos modelos.
@@ -266,7 +268,7 @@
           figure.m-auto.col-4.col-md-5.col-lg-12
             img(src='@/assets/curso/tema1/23.svg')
         .col-lg-10
-          p Este modelo se denomina planeación de recursos empresariales (ERP). Dentro de sus ventajas se encuentra la integración de todos los procesos necesarios para las operaciones de la empresa con un único sistema. Reúne procesos de planificación, el inventario de compras, ventas, talento humano, finanzas y marketing, entre otros. Con un sistema (software ERP), cada departamento aún tiene su sistema; pero se puede acceder a todos los sistemas a través de una aplicación con una interfaz, permitiendo así que las diferentes áreas compartan información y se comuniquen fácilmente con el resto de la empresa. Toda la información es puesta a disposición de otras partes involucradas para su aprovechamiento productivo y eficiente.
+          p Este modelo se denomina planeación de recursos empresariales (ERP). Dentro de sus ventajas se encuentra la integración de todos los procesos necesarios para las operaciones de la empresa con un único sistema. Reúne procesos de planificación, el inventario de compras, ventas, talento humano, finanzas y #[em marketing], entre otros. Con un sistema (#[em software] ERP), cada departamento aún tiene su sistema; pero se puede acceder a todos los sistemas a través de una aplicación con una interfaz, permitiendo así que las diferentes áreas compartan información y se comuniquen fácilmente con el resto de la empresa. Toda la información es puesta a disposición de otras partes involucradas para su aprovechamiento productivo y eficiente.
           p.mt-3 También contribuye con la ejecución de operaciones efectivas a medida que crece la empresa y analiza varios escenarios a partir de mejoras en los procesos. El sistema básicamente consiste en que cada área almacena y extrae información enviándola a la base de datos central, que es un componente clave de un sistema ERP. Este repositorio de datos brinda visibilidad de todos los departamentos y, por lo tanto, permite a los líderes evaluar y comparar el desempeño comercial de diferentes áreas y comprender el impacto total de las decisiones.
       .row.col-xl-11.m-auto(titulo="Sistema MRP")
         .col-lg-2.mb-4.mb-lg-0
@@ -280,7 +282,7 @@
               | Realizar un inventario de los recursos o materiales disponibles.
             li.d-flex
               i.fas.fa-check(style="color:#583CB6;")
-              | Revisar cuáles se van adicionar de acuerdo con la necesidad.
+              | Revisar cuáles se van a adicionar de acuerdo con la necesidad.
             li.d-flex
               i.fas.fa-check(style="color:#583CB6;")
               | Programar la producción.
@@ -427,10 +429,10 @@
             figure.m-auto.col-6.col-md-6.col-lg-12 
               img(src="@/assets/curso/tema1/68.svg")
         .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
-          h5 Figura 3.
+          h5 Figura 1.
           span Beneficios de la implementación
         figure.mt-4(data-aos="zoom-in-up")
-          img(src="@/assets/curso/tema1/69.svg")
+          img(src="@/assets/curso/tema1/69.svg", alt="Presentación de 10 beneficios de la implementación de la producción continua.")
         .row.mt-5
           .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
             p Dentro de sus atributos se encuentran las series de producción de diferentes tamaños, permitiendo que los productos se fabriquen por lotes con modificaciones importantes en el producto. Dicho en otras palabras, este método de fabricación se utiliza para producir artículos similares que requieren de ciertos ajustes durante el proceso de producción. El sistema radica en que cada lote pasa por una sola fase del proceso antes de pasar a la siguiente fase de fabricación, siendo el atractivo clave y principal que mueve a las empresas a utilizar esta solución de la diversidad de tamaños en la industria.
@@ -466,10 +468,10 @@
         p.mt-4.fw-bold(data-aos="fade-left") Finalmente, los beneficios de la implementación de la producción por lotes son:
 
         .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
-          h5 Figura 4.
+          h5 Figura 2.
           span Beneficios de la implementación por lotes
         figure.mt-4(data-aos="zoom-in-up")
-          img(src="@/assets/curso/tema1/71.svg")
+          img(src="@/assets/curso/tema1/71.svg", alt="Presentación de 9 beneficios de la implementación de la producción por lotes.")
         h5.mb-4.p-2.ps-3.pe-4.mt-5(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Sistema de producción por encargo
         .row
           .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
@@ -498,10 +500,10 @@
             | Componentes ópticos
         p.mt-5.fw-bold(data-aos="fade-left") Finalmente, los beneficios de la implementación de la producción por encargo son:
         .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
-          h5 Figura 5.
-          span Beneficios de la implementación por lotes
+          h5 Figura 3.
+          span Beneficios de la implementación por encargo
         figure.mt-4(data-aos="zoom-in-up")
-          img(src="@/assets/curso/tema1/73.jpg")
+          img(src="@/assets/curso/tema1/73.jpg", alt="Presentación de 8 beneficios de la implementación de la producción por encargo.")
 
 
     p.mt-5(data-aos="fade-right") Recuerde siempre que la atención al diseño del sistema de producción es un factor crítico y fundamental en la selección del sistema de producción y por ende, en el éxito general del negocio.
@@ -556,7 +558,7 @@
               .p-4.p-lg-5
                 h5 Programa MES
                 p.mt-4 Sus siglas en inglés son #[em Manufacturing execution sistema-Mondragón], que no es otra cosa que el sistema de fabricación Mondragón y que según lo expuesto por el autor Velasco (2015) controla el estado de las máquinas, las órdenes de fabricación, la producción de los lotes y lo más importante de este sistema es que el equipo de medición permite hacer seguimiento a la planta manual y automática para así asegurar la calidad en la entrega del producto. 
-                p.mt-4 Aprovecha una comprensión más profunda de la información que afecta directamente el rendimiento y la calidad a través de la implementación de servicios que van desde equipos hasta software de planta. Cada sistema de información de calor y control se construye utilizando aspectos clave de la industria para una calidad óptima.
+                p.mt-4 Aprovecha una comprensión más profunda de la información que afecta directamente el rendimiento y la calidad a través de la implementación de servicios que van desde equipos hasta #[em software] de planta. Cada sistema de información de calor y control se construye utilizando aspectos clave de la industria para una calidad óptima.
         .col-lg.mb-4.mb-lg-0(data-aos="fade-left")
           .tarjeta-avatar
             img(src='@/assets/curso/tema1/75.svg')
@@ -609,13 +611,13 @@
     p.mt-5(data-aos="fade-right") Teniendo en cuenta lo anterior, como pasos y sugerencias para la implementación de los programas de calidad en la empresa se pueden representar los siguientes:
 
     .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
-      h5 Figura 6.
+      h5 Figura 4.
       span Pasos y sugerencias de implementación
     .mt-4.p-4.pb-5(style="background-color:#F6F6F6;bprder-radius:15px;border-radius:20px;")
       figure.d-none.d-lg-block(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema1/76.svg")
+        img(src="@/assets/curso/tema1/76.svg", alt="Descripción de los pasos y sugerencias de implementación.")
       figure.d-lg-none.col-md-9.m-auto(data-aos="zoom-in-up")
-        img(src="@/assets/curso/tema1/77.svg")
+        img(src="@/assets/curso/tema1/77.svg", alt="Descripción de los pasos y sugerencias de implementación.")
     
     p.mt-5(data-aos="fade-right") Además de todo esto, se pueden establecer otras herramientas que vigorizan el control de calidad, asegurando todos los pasos de la implementación y que adicional ayudan, a través de los datos, a determinar la mejora de la producción, las decisiones más convenientes para el bienestar y la relación empresa-consumidor. En las tarjetas se puede apreciar los instrumentos desde varios escenarios de errores en la fabricación:
 
@@ -655,9 +657,9 @@
     .row.mt-5 
       .col-lg-5.mb-4.mb-lg-0(data-aos="fade-right")
         LineaTiempoD.color-acento-contenido
-          p.text-small(numero="1" titulo="Cantidad planeada de producción") Es la cantidad de salida para la que se creó esta orden de producción. El sistema propone esta cantidad, pero se puede cambiar manualmente siempre que la orden de producción no esté en el estado cancelado, cerrado o finalizado.
-          p.text-small(numero="2" titulo="Cantidad  cumplida de producción") Es la cantidad total del producto de salida que ha sido cumplida por la ejecución de la producción y notificada en lotes de fabricación.
-          p.text-small(numero="3" titulo="Cantidad  abierta") Es la cantidad restante, la diferencia de la cantidad cumplida menos la cantidad planeada.
+          p(numero="1" titulo="Cantidad planeada de producción") Es la cantidad de salida para la que se creó esta orden de producción. El sistema propone esta cantidad, pero se puede cambiar manualmente siempre que la orden de producción no esté en el estado cancelado, cerrado o finalizado.
+          p(numero="2" titulo="Cantidad  cumplida de producción") Es la cantidad total del producto de salida que ha sido cumplida por la ejecución de la producción y notificada en lotes de fabricación.
+          p(numero="3" titulo="Cantidad  abierta") Es la cantidad restante, la diferencia de la cantidad cumplida menos la cantidad planeada.
       .col-lg-7(data-aos="fade-left")
         figure.m-auto.col-7.col-md-7.col-lg-12
           img(src="@/assets/curso/tema1/79.svg")
@@ -667,10 +669,10 @@
           img(src="@/assets/curso/tema1/80.svg")
       .col-lg-5(data-aos="fade-left")
         LineaTiempoD.color-acento-contenido
-          p.text-small(numero="4" titulo="Desecho") Se puede calcular la cantidad de rechazo de la producción, por ende, es importante planear  un factor de desecho para el producto de salida o introducir el dato en la orden de producción.
-          p.text-small(numero="5" titulo="Fecha de inicio y final") Se transmiten desde la producción a partir de la cual se creó la orden de fabricación. Cuando las fechas son más tempranas, estas se calculan durante la programación y pueden ser modificadas antes de que la orden de producción se encuentre en estado de liberación. Luego, se ajusta la programación a través del sistema en toda la orden de producción con la nueva fecha y hora.
-          p.text-small(numero="6" titulo="Últimas fechas") Tanto la de inicio como la de fin se establecen durante la programación, puede hacer modificación de la última fecha y la hora de inicio antes del estado de liberación en la orden de producción.
-          p.text-small(numero="7" titulo="Indicadores") Se encargan de suministrar las variaciones que han sufrido las fechas más tempranas o las fechas últimas, si se han modificado manualmente, y esto incurre en la desviación de fechas planeadas inicialmente.
+          p(numero="4" titulo="Desecho") Se puede calcular la cantidad de rechazo de la producción, por ende, es importante planear  un factor de desecho para el producto de salida o introducir el dato en la orden de producción.
+          p(numero="5" titulo="Fecha de inicio y final") Se transmiten desde la producción a partir de la cual se creó la orden de fabricación. Cuando las fechas son más tempranas, estas se calculan durante la programación y pueden ser modificadas antes de que la orden de producción se encuentre en estado de liberación. Luego, se ajusta la programación a través del sistema en toda la orden de producción con la nueva fecha y hora.
+          p(numero="6" titulo="Últimas fechas") Tanto la de inicio como la de fin se establecen durante la programación, puede hacer modificación de la última fecha y la hora de inicio antes del estado de liberación en la orden de producción.
+          p(numero="7" titulo="Indicadores") Se encargan de suministrar las variaciones que han sufrido las fechas más tempranas o las fechas últimas, si se han modificado manualmente, y esto incurre en la desviación de fechas planeadas inicialmente.
 
 
 
@@ -801,7 +803,7 @@ export default {
 .imageninfografica1 .img-infografica__item
   border-radius: 100%
 .imageninfografica1 .img-infografica__item, .img-infografica-b__item
-  width: 4%
+  width: 3%
   font-size: 25px
   border: 4px #A5F6CC solid
 .imageninfografica1.img-infografica.color-primario .img-infografica__item__numero, .img-infografica-b.color-primario .img-infografica__item__numero

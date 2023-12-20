@@ -6,9 +6,9 @@
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
-            img(src="@/assets/template/arrastrar.svg", alt="Imagen decorativa")
+            img(src="@/assets/template/arrastrar.svg", alt="")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
+        .titulo-segundo.color-acento-contenido
           h2 Bases de la producción
         p.mb-4 Determinar conceptos fundamentales de los procesos de fabricación de bienes y servicios para comprender las exigencias del mercado, la globalización y los avances tecnológicos, logrando un afianzamiento de los mismos.
         .tarjeta.actividad.p-3
