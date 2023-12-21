@@ -442,7 +442,7 @@
         h5(data-aos="zoom-in") Aplicación de estrategias de logística a la inversa
         p.mt-4(data-aos="fade-right") A continuación se presenta un ejemplo de los resultados obtenidos en la implementación de estrategias de logística a la inversa clasificadas de acuerdo con el sector y beneficios o ventajas que aporta.
         p.mt-4(data-aos="fade-left") Presenta resultados a favor de las empresas que implementan estas estrategias, así como el fortalecimiento de las relaciones con #[em stakeholders] al vincularse en este tipo de procesos, la indiscutible reducción de costos e incremento de rentabilidad, y la cultura del cuidado al medioambiente desde el ámbito organizacional, lo cual parecía ser imposible y alejado de los objetivos empresariales (González, 2020). 
-        a.anexo.mt-4.col-lg-7(:href="obtenerLink('downloads/prueba.pdf')" target="_blank" data-aos="fade-right" style="background-color:#FAEBCD;")
+        a.anexo.mt-4.col-lg-7(:href="obtenerLink('downloads/Anexo_aplicacion_de_estrategias.docx')" target="_blank" data-aos="fade-right" style="background-color:#FAEBCD;")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -494,7 +494,7 @@
       .p-4.mt-4(style="background-color:#fff;box-shadow:0px 3px 8px rgba(0,0,0,.12);")
         .col-xl-10.m-auto
           figure(data-aos="zoom-in-up")
-            img(src="@/assets/curso/tema2/32.svg", alt="Gráfico en el que se evidencia la disminución de costos luego de la recolección y disposición de desechos entre los años 2003 al 2008, relacionando kilogramo sobre habitante y mes.")
+            img(src="@/assets/curso/tema2/fig8.svg", alt="Gráfico en el que se evidencia la disminución de costos luego de la recolección y disposición de desechos entre los años 2003 al 2008, relacionando kilogramo sobre habitante y mes.")
       figcaption.mt-3.fw-normal(style="background-color:#E8E8E8;") Nota. Tomado de Cabeza (2012).
     
     .col-xl-10.m-auto.mt-5
