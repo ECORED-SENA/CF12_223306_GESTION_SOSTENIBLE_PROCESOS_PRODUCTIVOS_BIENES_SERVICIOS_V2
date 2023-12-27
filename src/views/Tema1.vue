@@ -13,7 +13,7 @@
           img(src="@/assets/curso/tema1/1.png")
       .col-lg-8(data-aos="fade-left" style="place-self:center;")
         .cont_1_1
-          p Conforma el crecimiento económico de un país que puede ser comparado entre vigencias actuales y anteriores. Cuando el valor de la producción de bienes y servicios aumenta genera como resultados grandes ganancias para la empresa y, por ende, el alza a los precios de acciones más altos que contribuyen a la contratación de talento humano necesario para cumplir con la entrega de la producción. En el accionar del crecimiento económico, siendo este uno de los indicadores que se observan en el mercado, como tal se tienen en cuenta la inflación, el producto nacional bruto y el producto interno bruto, mediciones que se estudian para establecer el impacto económico y, por tanto, la versatilidad de los bienes y servicios.
+          p Conforma el crecimiento económico de un país que puede ser comparado entre vigencias actuales y anteriores. Cuando el valor de la producción de bienes y servicios genera como resultados grandes ganancias para la empresa y, por ende, el alza a los precios de acciones más altos que contribuyen a la contratación de talento humano necesario para cumplir con la entrega de la producción. En el accionar del crecimiento económico, siendo este uno de los indicadores que se observan en el mercado, como tal se tienen en cuenta la inflación, el producto nacional bruto y el producto interno bruto, mediciones que se estudian para establecer el impacto económico y, por tanto, la versatilidad de los bienes y servicios.
     
     .cont_1_2.mt-5.pt-4.pb-4(data-aos="zoom-in-up")
       p La programación de la producción consiste en la asignación de material (materia prima), mano de obra y procesos para fabricar bienes para los clientes. Incluye acciones tales como la distribución de horas en las que estarán operando las máquinas (hora de inicio y finalización de los procesos de producción) y la mano de obra que las manipula, cumpliendo así con los tiempos pactados. También, tiene en cuenta otros aspectos involucrados como el #[em stock] para evitar que disminuya el curso de producción y se conserve con lo planificado por la empresa.
@@ -93,7 +93,7 @@
             h5 Bienes raíces
             p Hace referencia a los recursos naturales (tierra, petróleo, carbón, cobre, metales, gas), renovables (bosques).
           .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
+            figure.m-auto.col-md-6.col-lg-12
               img(src='@/assets/curso/tema1/10.png')
         .row
           .col-lg-6.mb-4.mb-lg-0
@@ -101,7 +101,7 @@
             p Este recurso es uno de los más importantes para la empresa, el cual consiste en el trabajo que desempeña el personal a cargo de la fabricación de bienes y servicios. 
             p.mt-4 El talento humano más calificado tendrá una remuneración mayor que aquel con menos capacitación y habilidad. Con la llegada de diferentes tecnologías que contribuyen a la eficiencia de los procesos de una organización este recurso (mano de obra) ha perdido relevancia, puesto que las empresas le apuestan a equipos y maquinaria que ha suplido la presencia de mano de obra.
           .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
+            figure.m-auto.col-md-6.col-lg-12
               img(src='@/assets/curso/tema1/11.png')
         .row
           .col-lg-6.mb-4.mb-lg-0
@@ -109,7 +109,7 @@
             p Van desde el capital (dinero en efectivo) hasta maquinaria, equipos o plantas que se utilizan para el proceso de producción, maquinaria pesada y camiones. Asimismo, la generación de inversiones es capital que permite que la economía de la empresa se esparza y promueva más ganancias en donde deben reducirse costos, para así asegurar que el capital se conserve y sea rentable.
             p.mt-4 Entiéndase entonces, que los activos de producción son netamente comerciales y utilizados para la fabricación de bienes y servicios, por lo cual son exclusivos para el uso, manejo y producción, excluyendo cualquier uso o acceso para beneficio personal.
           .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
+            figure.m-auto.col-md-6.col-lg-12
               img(src='@/assets/curso/tema1/12.png')
         .row
           .col-lg-6.mb-4.mb-lg-0
@@ -117,7 +117,7 @@
             p Aquí se califica a los recursos que generan novedad para el bien o servicio que fabrica la empresa, incluyendo el espíritu emprendedor, los innovadores o creadores de idea que generen valor agregado al proceso de producción. 
             p.mt-4 Es entonces como en este último factor de producción se ponen en circulación los anteriores mencionados para entregar un producto o servicio de calidad. Son los impulsores de cualquier cambio técnico en el sistema económico que ha demostrado ser una fuente importante de crecimiento económico.
           .col-lg-6
-            figure.m-auto.col-6.col-md-6.col-lg-12
+            figure.m-auto.col-md-6.col-lg-12
               img(src='@/assets/curso/tema1/13.png')
     
     .col-xl-10.m-auto.mt-5
@@ -255,7 +255,7 @@
 
     figure.mt-4(data-aos="fade-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/ASKSoV1YHYI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/VktLwl0IJeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Video. Modelo de pronóstico
    
     
@@ -275,7 +275,7 @@
           figure.m-auto.col-4.col-md-5.col-lg-12
             img(src='@/assets/curso/tema1/24.svg')
         .col-lg-10
-          p Modelo denominado planeación de requisitos de materiales (MRP). Es un sistema que se aplica para deducir los materiales y componentes necesarios para fabricar un producto; ayuda a garantizar que el inventario correcto esté disponible para el proceso de producción exactamente cuando se necesita y al menor costo posible; mejora la eficiencia, la flexibilidad y la rentabilidad de las operaciones de fabricación; puede hacer que los trabajadores de la fábrica sean más productivos, mejoren la calidad del producto y se minimice los costos de materiales y mano de obra. Todo lo anterior contribuye al crecimiento y la estabilidad de los ingresos. Dentro de sus acciones están:
+          p Modelo denominado planeación de requisitos de materiales (MRP). Es un sistema que se aplica para deducir los materiales y componentes necesarios para fabricar un producto; ayuda a garantizar que el inventario correcto esté disponible para el proceso de producción, exactamente cuando se necesita y al menor costo posible; mejora la eficiencia, la flexibilidad y la rentabilidad de las operaciones de fabricación; puede hacer que los trabajadores de la fábrica sean más productivos, mejoren la calidad del producto y se minimice los costos de materiales y mano de obra. Todo lo anterior contribuye al crecimiento y la estabilidad de los ingresos. Dentro de sus acciones están:
           ul.lista-ul.mt-3.ps-lg-4
             li.d-flex
               i.fas.fa-check(style="color:#583CB6;")
@@ -294,8 +294,8 @@
     p.mt-5(data-aos="fade-right") Frente a las técnicas de análisis del flujo de los procesos existen herramientas que se usan para comprender el bienestar de las operaciones de la empresa en donde se mejore la eficiencia de los procesos dentro del contexto comercial. La gestión de los procesos se analiza identificando los elementos que son perjudiciales e interpretando cómo se van a superar los obstáculos, pues no por presionar más hay mejores resultados. A continuación algunas de estas técnicas que permiten analizar los procesos:
 
     TabsA.color-acento-contenido.mt-4.cont_tarjeta_custom(data-aos="zoom-in")
-      .tarjeta.color-acento-contenido.p-4(titulo="Sistema flow shop" style="background-color:#FBFAFF;")
-        h5 Sistema flow shop
+      .tarjeta.color-acento-contenido.p-4(titulo="Sistema <em>flow shop</em>" style="background-color:#FBFAFF;")
+        h5 Sistema #[em flow shop]
         .row
           .col-lg-7.mb-4.mb-lg-0
             p El sistema flow shop es denominado taller de flujo, útil en los flujos de trabajos fijos y con cantidades de producción ampliadas. En un taller de flujo el proceso de fabricación sigue una estructura lineal establecida. Eso significa que todos los pedidos deben fabricarse de la misma manera en las mismas máquinas. 
@@ -303,8 +303,8 @@
           .col-lg-5
             figure.m-auto.col-6.col-md-7.col-lg-12
               img(src='@/assets/curso/tema1/25.png')
-      .tarjeta.color-acento-contenido.p-4(titulo="Sistema job shop" style="background-color:#FBFAFF;")
-        h5 Sistema job shop
+      .tarjeta.color-acento-contenido.p-4(titulo="Sistema <em>job shop</em>" style="background-color:#FBFAFF;")
+        h5 Sistema #[em job shop]
         .row
           .col-lg-7.mb-4.mb-lg-0
             p Lleva por nombre taller de trabajo, aludiendo a la ruta de cada uno de manera particular, donde los pedidos deben producirse de manera diferente en las mismas máquinas o en una parte de ellas. La demanda en los talleres no es tan predecible, sino que depende de la ocurrencia irregular de los pedidos de los clientes. La variabilidad de los datos es muy alta, ya que el contexto es dinámico. 
@@ -316,9 +316,9 @@
         h5 Teoría de restricciones TOC
         .row
           .col-lg-7.mb-4.mb-lg-0
-            p El sistema flow shop es denominado taller de flujo, útil en los flujos de trabajos fijos y con cantidades de producción ampliadas. En un taller de flujo el proceso de fabricación sigue una estructura lineal establecida. Eso significa que todos los pedidos deben fabricarse de la misma manera en las mismas máquinas. 
-            p.mt-3 La demanda en los talleres de flujo es constante y predecible, esto significa que la variabilidad de los datos es baja. La variedad del producto suele ser baja, ya que hay pocos productos y muy estandarizados.
-            p.mt-3 No se lleva con frecuencia la configuración de las máquinas de producción, puesto que no hay variedad de productos, por tanto, existe la posibilidad de reunir operaciones similares en un lote para impulsar la capacidad de producción. 
+            p Conocido comúnmente como cuello de botella en la que habrá menos trabajo en proceso. Se establecen los factores que limitan y se interponen para lograr los objetivos de la empresa.
+            p.mt-3 Se propone con la teoría que se puedan identificar y erradicar las restricciones, analizar y resolver problemas para orientar las decisiones de la gestión. Se enfatiza en las actividades de mejora. La máxima prioridad es siempre la restricción actual.
+            p.mt-3 En entornos donde existe una necesidad urgente de mejorar, TOC ofrece una metodología altamente enfocada para crear una mejora rápida.
           .col-lg-5
             figure.m-auto.col-6.col-md-7.col-lg-12
               img(src='@/assets/curso/tema1/27.png')
@@ -367,6 +367,7 @@
             .col(style="place-self:center;")
               p.mb-0 Reproducir. Todas son pautas de un ciclo de mejora continua, por ello se repiten estos pasos para resolver la restricción y abordar la siguiente.
 
+
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
@@ -394,7 +395,7 @@
             p Según lo inferido por Velasco (2015) determina que este tipo de fabricación no se somete a problemas complejos, puesto que la línea de producción es fija. Es un método que produce eficientemente grandes cantidades en un corto período de tiempo. 
             p.mt-4 Es un sistema organizado que involucra maquinaria avanzada y produce grandes cantidades, asumiendo así tareas específicas, maquinaria especializada que entrega como resultado productos idénticos y la potencial optimización automatizada. Durante el procesamiento continuo, distintas partes fluyen de una máquina a la siguiente para hacer un producto terminado. No hay interrupciones entre las etapas de producción.
           .col-lg-5(data-aos="fade-left" style="place-self:center;")
-            figure.m-auto.col-6.col-md-6.col-lg-12 
+            figure.m-auto.col-10.col-md-6.col-lg-12 
               img(src="@/assets/curso/tema1/67.svg")
         p.mt-5.fw-bold(data-aos="fade-right") Algunos ejemplos de este contexto se presentan en la siguiente tabla.
 
@@ -421,24 +422,28 @@
           
         p.mt-5(data-aos="fade-right") La producción continua maneja un ciclo de tiempo de 24/7, es decir, las máquinas no paran, se encuentran activas las veinticuatro horas del día de los siete días de la semana, es por ello que se le denomina así a este tipo de sistema. Como sugerencia en el tiempo de producción no se pueden apagar las máquinas, ya que se debilita la calidad del producto terminado, generando un producto menos calificado que los demás. El descanso de las máquinas proviene previamente de una planeación socializada por el equipo de trabajo, en donde se ha establecido el horario para apagar las máquinas y aprovechar su descanso para hacer verificación, mantenimiento y vida útil o poder instalar nuevos equipos.
 
-        .row.mt-4 
+        .row.mt-4
           .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
             p Para afianzar el desarrollo de los ejemplos anteriores, se ha tomado uno en particular, la industria del papel. Abarca varias máquinas para llevar a cabo los procesos de fabricación. Las máquinas vuelven los troncos en astillas, que luego se cocinan en el digestor que tiene la capacidad de recibir grandes volúmenes. Se convierten las astillas en pulpa, que será procesada por rodillos que se encuentran en máquinas automáticas para posteriormente ser secadas.
             p.mt-4.fw-bold Finalmente, los beneficios de la implementación de la producción continua son:
           .col-lg-5(data-aos="fade-left" style="place-self:center;")
-            figure.m-auto.col-6.col-md-6.col-lg-12 
+            figure.m-auto.col-10.col-md-6.col-lg-12 
               img(src="@/assets/curso/tema1/68.svg")
         .titulo-sexto.color-acento-contenido.mt-5(data-aos="zoom-in-down")
           h5 Figura 1.
           span Beneficios de la implementación
-        figure.mt-4(data-aos="zoom-in-up")
+        figure.mt-4.mb-5(data-aos="zoom-in-up")
           img(src="@/assets/curso/tema1/69.svg", alt="Presentación de 10 beneficios de la implementación de la producción continua.")
-        .row.mt-5
+        
+
+        h5.mb-4.p-2.ps-3.pe-4(data-aos="fade-right" style="max-width:fit-content;background-color:#F0BD51;") Sistema de producción por lotes
+
+        .row.mt-4
           .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
             p Dentro de sus atributos se encuentran las series de producción de diferentes tamaños, permitiendo que los productos se fabriquen por lotes con modificaciones importantes en el producto. Dicho en otras palabras, este método de fabricación se utiliza para producir artículos similares que requieren de ciertos ajustes durante el proceso de producción. El sistema radica en que cada lote pasa por una sola fase del proceso antes de pasar a la siguiente fase de fabricación, siendo el atractivo clave y principal que mueve a las empresas a utilizar esta solución de la diversidad de tamaños en la industria.
             p.mt-4 Pueden ocurrir cambios entre diferentes lotes, como productos construidos en diferentes colores, tamaños y estilos. Si es necesario modificar un producto, esta variación se puede cambiar a medida que el proceso de producción cambia de un estilo de lote a otro. Es decir que, los artículos individuales no pasan a la siguiente fase de valor agregado hasta que todos los productos del lote hayan pasado por la anterior, creando un lote de productos terminados a la vez.
           .col-lg-5(data-aos="fade-left" style="place-self:center;")
-            figure.m-auto.col-6.col-md-6.col-lg-12 
+            figure.m-auto.col-10.col-md-6.col-lg-12 
               img(src="@/assets/curso/tema1/70.svg")
         p.mt-4(data-aos="fade-right") La producción por lotes se asocia más comúnmente con las operaciones de fabricación de procesos en las que los bienes se producen mezclando o combinando componentes en un proceso, como alimentos, productos químicos, farmacéuticos, etc.; sin embargo, también se puede utilizar en la fabricación discreta donde los productos se ensamblan a partir de separar los componentes y luego se pueden desmontar, como equipos electrónicos o industriales. Algunos ejemplos de este sector se presentan en la siguiente tabla.
         .col-xl-8.m-auto.mt-5.col-lg-10
@@ -478,7 +483,7 @@
             p Conocida también como producción personalizada. Se centra en fabricar cantidades pequeñas para satisfacer las necesidades que para el método son específicas. Es así como el cliente tiene protagonismo en este método, puesto que las empresas utilizan los datos y aportes que el cliente suministra para fabricar productos por encargo o de manera personalizada. Aunque es un poco lenta comparada con los anteriores sistemas, las líneas de montaje siguen un orden específico de pautas. 
             p.mt-4 La producción por encargo se caracteriza por su agilidad y capacidad para diseñar y fabricar productos únicos destinados a adaptarse a funciones o requisitos específicos. A diferencia de los productos producidos en masa, los productos hechos a medida se fabrican en cantidades más pequeñas sobre la base de un pedido. 
           .col-lg-5(data-aos="fade-left" style="place-self:center;")
-            figure.m-auto.col-6.col-md-6.col-lg-12 
+            figure.m-auto.col-9.col-md-6.col-lg-12 
               img(src="@/assets/curso/tema1/72.png")
         p.mt-4(data-aos="fade-right") Con este mecanismo tiende a surgir estrecha relación entre quienes fabrican y el cliente, especialmente al principio, cuando se revisan los requisitos y se definen los pasos del proceso. Naturalmente, los productos personalizados también pueden requerir un mayor grado de garantía de calidad, ya que lo que es importante inspeccionar, medir y probar puede variar de un producto a otro, lo que hace que la metodología sea menos estándar.
         p.mt-5.fw-bold(data-aos="fade-left") Algunos ejemplos de actividades económicas que implementan este sistema de producción son:
@@ -505,15 +510,15 @@
         figure.mt-4(data-aos="zoom-in-up")
           img(src="@/assets/curso/tema1/73.jpg", alt="Presentación de 8 beneficios de la implementación de la producción por encargo.")
 
-
     p.mt-5(data-aos="fade-right") Recuerde siempre que la atención al diseño del sistema de producción es un factor crítico y fundamental en la selección del sistema de producción y por ende, en el éxito general del negocio.
+
 
     Separador
 
     .titulo-segundo(data-aos="zoom-in-right")
       h2#t_1_4 1.4 Control de calidad en los sistemas de producción
     
-    p(data-aos="fade-left") Antes de profundizar en las herramientas que aseguran la calidad en la fabricación de los productos es necesario comprender qué se busca con la observación de la calidad. 
+    p(data-aos="fade-left") Antes de profundizar en las herramientas que aseguran la calidad en la fabricación de los productos, es necesario comprender qué se busca con la observación de la calidad. 
 
     .p-4.pb-5.mt-5.pt-5.cont_pos_relative(style="background-color:#E8E8E8;")
       br
@@ -521,7 +526,7 @@
         .col-lg-7.mb-4.mb-lg-0(data-aos="fade-right")
           h4 Control de calidad 
           p.mt-4 El control de calidad puede definirse como un sistema que se utiliza para mantener un nivel deseado de calidad en un producto o servicio. Es un control sistemático de varios factores que afectan la calidad del producto. Depende de los materiales, las herramientas, las máquinas, el tipo de mano de obra, las condiciones de trabajo, etc. 
-        .col-lg-5(data-aos="fade-left")
+        .col-lg-5.d-none.d-md-flex(data-aos="fade-left")
           .d-flex.flex-wrap.align-content-center.cont_image_1(style="position:absolute;width: 100%;height: 100%;top:0;left: 0;")
             figure.m-auto.col-5.col-md-5.col-lg-9
               img(src="@/assets/curso/tema1/48.svg" style="position:relative;z-index:2;")
@@ -604,7 +609,7 @@
           .col-lg-7(data-aos="fade-left" style="place-self:center;")
             .p-4
               p.fw-bold Mantenimiento productivo total - TPM: 
-              p Elimina los defectos y accidentes, mejora la calidad del producto ya que elimina el tiempo de inactividad. 
+              p Elimina los defectos y accidentes, mejora la calidad del producto, ya que elimina el tiempo de inactividad. 
               p.fw-bold.mt-4 Sistema de las 5S: 
               p.mb-0 Ayuda a estandarizar el lugar de trabajo, toma el control con la implementación de buenas prácticas del sistema, ya que permite mejorar los procedimientos y eliminar errores en las instalaciones. Aunque cada instalación tiene necesidades diferentes, lo relevante de esto es que simplifica el procedimiento y reduce errores en la fabricación.
     
@@ -643,14 +648,14 @@
     .titulo-segundo(data-aos="zoom-in-right")
       h2#t_1_5 1.5. Procesamiento de órdenes de producción y servicios
     
-    p(data-aos="fade-right") Las órdenes de producción le permiten planear el proceso de producción en la fase de ejecución. Contienen toda la información requerida para ejecutar la producción, como qué actividad se llevará a cabo, qué productos de entrada se requieren, qué recursos se necesitan y cuándo procesar las actividades. Una vez que se crea la orden de producción el sistema calcula las cantidades planeadas, las duraciones y las fechas. Si la ejecución de la producción produce menos o más de lo que se planeó originalmente, esto debe informarse al área de planeación. La planeación debe, entonces, considerar cómo lidiar con la demanda insatisfecha o sobresatisfecha.
+    p(data-aos="fade-right") Las órdenes de producción le permiten planear el proceso de producción en la fase de ejecución. Contienen toda la información requerida para ejecutar la producción, como qué actividad se llevará a cabo, qué productos de entrada se requieren, qué recursos se necesitan y cuándo procesar las actividades. Una vez que se crea la orden de producción el sistema calcula las cantidades planeadas, las duraciones y las fechas. Si la ejecución de la producción produce menos o más de lo que se planeó originalmente, esto debe informarse al área de planeación. La planeación debe, entonces, considerar cómo lidiar con la demanda insatisfecha o satisfecha.
     p.mt-4(data-aos="fade-left") Los datos más representativos que se calculan a partir de las tareas de producción se establecen en la orden, la cual muestra lo que se planeó inicialmente y cuál ha sido el desempeño y cumplimiento del plan. De ahí la importancia de conocer inicialmente cada uno de sus estados:
 
     .col-xl-10.m-auto.mt-5
       figure.d-none.d-lg-block
-        img(src="@/assets/curso/tema1/63.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/63.svg", alt="Imagen que presenta los estados de las tareas de producción." data-aos="zoom-in-up")
       figure.d-lg-none.col-md-9.m-auto
-        img(src="@/assets/curso/tema1/78.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/78.svg", alt="Imagen que presenta los estados de las tareas de producción." data-aos="zoom-in-up")
     
     p.mt-5(data-aos="fade-right") A continuación, se describe los principales datos que se verifican para saber hasta qué punto se ha desarrollado la planeación de la producción inicialmente con la orden de fabricación:
 

@@ -4,9 +4,9 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     p.mb-5(data-aos="zoom-in") El siguiente mapa mental resume las temáticas desarrolladas, en el componente formativo, sobre los procesos administrativos en una organización y la importancia de la responsabilidad social empresarial. 
     .row.justify-content-center
-      .col-lg-10.mb-5
+      .col-lg-11.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg", alt="La programación de la producción y la logística sostenible inversa consiste en la gestión del control de calidad en los recursos, teniendo en cuenta la sostenibilidad empresarial.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

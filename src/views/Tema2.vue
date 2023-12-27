@@ -72,50 +72,54 @@
       LineaTiempoC.color-acento-contenido(text-small)
         .row.col-xl-12.m-auto(titulo="Aprovisionamiento")
           .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
-            figure.m-auto.col-7.col-md-7.col-lg-12
+            figure.m-auto.col-11.col-md-7.col-lg-12
               img(src='@/assets/curso/tema2/4.png')
           .col-lg-6(style="place-self:center;")
+            h4 Aprovisionamiento
             p Consiste en el abastecimiento de materias primas, insumo y servicios requeridos para la producción.
             p.mt-4 Comprende los lugares donde se obtienen las materias primas, las cuales se gestionan entre los puntos de adquisición (proveedores iniciales) y las plantas de procesamiento.
             p.mt-4 Requiere de un proceso de planificación y contratación para seleccionar proveedores garantes de su provisión en cuanto a cantidad, calidad y oportunidad.
         .row.col-xl-12.m-auto(titulo="Producción")
           .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
-            figure.m-auto.col-7.col-md-7.col-lg-12
+            figure.m-auto.col-11.col-md-7.col-lg-12
               img(src='@/assets/curso/tema2/5.png')
           .col-lg-6(style="place-self:center;")
+            h4 Producción
             p Proceso mediante el cual los materiales son transformados hasta convertirlos en producto terminado y adquirido por el consumidor.
             p.mt-4 Se vinculan partes interesadas relacionadas con los procesos productivos.
             p.mt-4 Incluye la planeación y organización de los factores de producción, acceso a insumos y recursos, cosecha y traspaso del producto. También,describe y analiza los procesos y actividades relacionadas con el proceso productivo.
         .row.col-xl-12.m-auto(titulo="Distribución y <br> comercialización")
           .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
-            figure.m-auto.col-7.col-md-7.col-lg-12
+            figure.m-auto.col-11.col-md-7.col-lg-12
               img(src='@/assets/curso/tema2/6.png')
           .col-lg-6(style="place-self:center;")
-            p Proceso mediante el cual se traslada el producto final hasta el punto de venta para ser almacenado y posteriormente comercializado. La comercialización se considera el factor de éxito de toda organización la cual debe ir de la mano de la distribución para planificar de manera apropiada los recursos, actividades, actores o intermediarios y flujo que debe seguir el producto hasta llegar al cliente final. Aquí se realizan estas actividades específicas:
+            h4 Distribución y comercialización
+            p Proceso mediante el cual se traslada el producto final hasta el punto de venta para ser almacenado y posteriormente comercializado. La comercialización se considera el factor de éxito de toda organización, la cual debe ir de la mano de la distribución para planificar de manera apropiada los recursos, actividades, actores o intermediarios y flujo que debe seguir el producto hasta llegar al cliente final. Aquí se realizan estas actividades específicas:
             ul.lista-ul.mt-3.ps-lg-3
-              li.d-flex
+              li.d-flex.mb-1
                 i.fas.fa-check(style="color:#583CB6;")
                 | Clasifica la distribución en aspectos comerciales y físicos.
-              li.d-flex
+              li.d-flex.mb-1
                 i.fas.fa-check(style="color:#583CB6;")
                 | Define segmentos para la atención eficiente de los clientes.
-              li.d-flex
+              li.d-flex.mb-1
                 i.fas.fa-check(style="color:#583CB6;")
                 | Establece los canales de distribución.
-              li.d-flex
+              li.d-flex.mb-1
                 i.fas.fa-check(style="color:#583CB6;")
                 | Reconoce todos los actores requeridos para llevar el producto al cliente.
-              li.d-flex
+              li.d-flex.mb-1
                 i.fas.fa-check(style="color:#583CB6;")
                 | Realiza funciones básicas como: transacción, logística, facilitación y promoción.
-              li.d-flex
+              li.d-flex.mb-1
                 i.fas.fa-check(style="color:#583CB6;")
                 span.mb-0 Vincula miembros llamados facilitadores como bancos, empresas de investigación de mercados, minoristas de #[em merchandising], agencias de publicidad, entre otras.
         .row.col-xl-12.m-auto(titulo="Almacenaje <br> y acopio")
           .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
-            figure.m-auto.col-7.col-md-7.col-lg-12
+            figure.m-auto.col-11.col-md-7.col-lg-12
               img(src='@/assets/curso/tema2/7.png')
           .col-lg-6(style="place-self:center;")
+            h4 Almacenaje y acopio
             p Proceso mediante el cual los materiales son transformados hasta convertirlos en producto terminado y adquirido por el consumidor.
             p.mt-4 Se vinculan partes interesadas relacionadas con los procesos productivos.
             p.mt-4 Incluye la planeación y organización de los factores de producción, acceso a insumos y recursos, cosecha y traspaso del producto. También, describe y analiza los procesos y actividades relacionadas con el proceso productivo.
@@ -349,7 +353,7 @@
     p(data-aos="fade-right") La logística inversa es en sí misma una estrategia organizacional que genera ventajas competitivas sostenibles, favoreciendo la reducción en cuanto a costos y contaminación ambiental, lo cual aporta a la credibilidad de las empresas y la fidelización de los clientes.
     p.mt-4(data-aos="fade-left") Las tendencias del desarrollo sostenible abren camino a que las empresas implementen acciones que mejoren sus procesos, es así que la logística inversa realiza actividades de retornos y proporciona un plus como estrategia de diferenciación de la organización en los mercados internacionales, aportando al incremento de la competitividad e imagen institucional, debido a que la participación de las empresas en el cuidado del ambiente y desarrollo social son las preferidas en los mercados dinámicos.
     p.mt-4(data-aos="fade-right") Se considera una estrategia empresarial en la dirección de retornos, una vez terminada la vida útil del bien o cuando hay artículos defectuosos se gestiona su regreso seguro a la empresa donde se fabricó. Al llevarse a cabo el retorno de los artículos se realiza una valoración de calidad para la toma de decisiones sobre su nuevo destino, que puede ser darle una nueva función o aplicar un procedimiento de eliminación con las medidas idóneas para proteger al ambiente.
-    p.mt-4(data-aos="fade-left") De acuerdo con lo anterior las variables que dan lugar a las estrategias aplicables por la logística inversa se presentan en el siguiente recurso.
+    p.mt-4(data-aos="fade-left") De acuerdo con lo anterior, las variables que dan lugar a las estrategias aplicables por la logística inversa se presentan en el siguiente recurso.
 
     SlyderF.mt-5(columnas="col-xl-4 col-lg-6")
       .tarjeta-avatar
@@ -442,7 +446,7 @@
         h5(data-aos="zoom-in") Aplicación de estrategias de logística a la inversa
         p.mt-4(data-aos="fade-right") A continuación se presenta un ejemplo de los resultados obtenidos en la implementación de estrategias de logística a la inversa clasificadas de acuerdo con el sector y beneficios o ventajas que aporta.
         p.mt-4(data-aos="fade-left") Presenta resultados a favor de las empresas que implementan estas estrategias, así como el fortalecimiento de las relaciones con #[em stakeholders] al vincularse en este tipo de procesos, la indiscutible reducción de costos e incremento de rentabilidad, y la cultura del cuidado al medioambiente desde el ámbito organizacional, lo cual parecía ser imposible y alejado de los objetivos empresariales (González, 2020). 
-        a.anexo.mt-4.col-lg-7(:href="obtenerLink('downloads/Anexo_aplicacion_de_estrategias.docx')" target="_blank" data-aos="fade-right" style="background-color:#FAEBCD;")
+        a.anexo.mt-4.col-lg-7(:href="obtenerLink('/downloads/Anexo_aplicacion_de_estrategias.pdf')" target="_blank" data-aos="fade-right" style="background-color:#FAEBCD;")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -576,7 +580,7 @@
       .p-4(style="background-color:#FAEBCD;" data-aos="flip-up")
         p.mb-0 Es importante tener en cuenta que el funcionamiento exitoso del canal de distribución de la gestión estratégica comercial se define a partir de la estrategia competitiva, de comunicación, el mercado meta, la determinación de costos de las diferentes alternativas, la puesta en marcha y monitoreo del sistema, la investigación permanente y los objetivos generales del plan de #[em marketing] y de la empresa.
     
-    p.mt-5(data-aos="fade-right") De igual manera, existe la gestión logística o distribución física de los productos en el momento, lugar y forma necesaria apegada a las decisiones estratégicas del plan de #[em marketing]; sin embargo, y a pesar de estar apegada al mix de mercadeo, esta es el componente menos controlable, los cuales en el desempeño de su función se ven influenciados por variables macroambientales como económicas, socioculturales, políticas, legales, tecnológicas, físicas y climáticas. De la misma manera, está permeado por variables microambientales como proveedores, intermediarios, clientes y competencia.
+    p.mt-5(data-aos="fade-right") De igual manera, existe la gestión logística o distribución física de los productos en el momento, lugar y forma necesaria apegada a las decisiones estratégicas del plan de #[em marketing]; sin embargo, y a pesar de estar apegada al #[em mix] de mercadeo, esta es el componente menos controlable, los cuales en el desempeño de su función se ven influenciados por variables macroambientales como económicas, socioculturales, políticas, legales, tecnológicas, físicas y climáticas. De la misma manera, está permeado por variables microambientales como proveedores, intermediarios, clientes y competencia.
     p.mt-4(data-aos="fade-left") Todas estas variables deben ser observadas con precaución para estar preparados ante los cambios que puedan surgir y el impacto que generen inciden en el desempeño futuro del canal de distribución. Algunas de las tendencias del entorno se explican a continuación para una mayor comprensión.
 
     .row.mt-5
